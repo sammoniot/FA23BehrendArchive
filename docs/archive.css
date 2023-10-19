@@ -1,10 +1,10 @@
 
 body {
-background-color: BurlyWood;
-color: indigo;
+background-color: #ADD8E6;
+color: black;
 font-family: arial, helvetica, sans-serif;
 }
 ol {list-style-type: lower-alpha;
 padding: 5em;
-    
+ 
 }
