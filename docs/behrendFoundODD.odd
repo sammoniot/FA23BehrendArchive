@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" version="2.9.1" xml:lang="en">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fall 2023 Founding of Behrend College Project ODD</title>
+            <author>Samantha Moniot</author>
+            <author>Lindsey Wood</author>
+            <author>Elisa Beshero-Bondar</author>
+         </titleStmt>
+         <publicationStmt><authority>Prepared in TEI P5 for Fall 2023 Founding of Behrend College Project team. GitHub
+            repository: <ptr target="https://github.com/sammoniot/FA23BehrendArchive/tree/main"/>. Date last worked
+            on: <date when="2023-11-08">8 November 2023</date>.</authority>
+         <availability>
+            <licence><!--Choose and identify a Creative Commons license for sharing your code. Look here: https://creativecommons.org/share-your-work/--></licence>
+         </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <schemaSpec ident="behrendFound" start="TEI" prefix="tei">
+            <!--ebb: The schemaSpec element contains all your schema information for customizing the TEI. Think of it as the "root" element of the schema, and it defines the start element of the TEI file.-->
+            <moduleRef key="tei"/>
+            <moduleRef key="core"/>
+            <moduleRef key="header"/>
+            <moduleRef key="namesdates"/>
+            <moduleRef key="textstructure"/>
+            <moduleRef key="drama"/>
+            <moduleRef key="corpus"/>
+            <moduleRef key="msdescription"/>
+            <!--ebb: For now, we're including all the elements in the above TEI modules complete. We can decide to exclude some later if we want to. -->
+           
+           
+            <elementSpec ident="persName" module="namesdates" mode="change">
+               <attList>
+                
+                  <attDef ident="ref" mode="replace" usage="rec">
+                     <datatype>
+                        <rng:text/>
+                     </datatype>
+                     <valList type="semi">
+                        <valItem ident="Behrend_Ernst"/>
+                        <valItem ident="Bebko_Donald"/>
+                        <valItem ident="Ferguson_Mr"/>
+                        <valItem ident="Gifford_Mr"/>
+                        <valItem ident="Grace_Burt"/>
+                        <valItem ident="Henzi_Mr"/>
+                        <valItem ident="JCAinsworth_Mr"/>
+                        <valItem ident="Keller_Dr"/>
+                        <valItem ident="Carter_Maud"/>
+                        <valItem ident="Milholland"/>
+                        <valItem ident="Brust_Mrs_Will"/>
+                     </valList>
+                  </attDef>
+               </attList>
+            </elementSpec>
+            
+            <elementSpec ident="placeName" module="namesdates" mode="change">
+               <attList>
+                  
+                  <attDef ident="ref" mode="replace" usage="rec">
+                     <datatype>
+                        <rng:text/>
+                     </datatype>
+                     <valList type="semi">
+                        <valItem ident="Argentina"/>
+                        <valItem ident="Austria"/>
+                        <valItem ident="BC"><gloss>Behrend Center</gloss></valItem>
+                        <valItem ident="Brazil"/>
+                        <valItem ident="England"/>
+                        <valItem ident="Erie"/>
+                        <valItem ident="Germany"/>
+                        <valItem ident="Glenhill_Farm"/>
+                        <valItem ident="Hamot_Hospital"/>
+                        <valItem ident="Norway"/>
+                        <valItem ident="Sweden"/>
+                     </valList>
+                  </attDef>
+               </attList>
+            </elementSpec>
+            
+            <elementSpec ident="orgName" module="namesdates" mode="change">
+               <attList>
+        
+                  <attDef ident="ref" mode="replace" usage="rec">
+                     <datatype>
+                        <rng:text/>
+                     </datatype>
+                     <valList type="semi">
+                        <valItem ident="Ham"><gloss>Hammermill Paper Company</gloss></valItem>
+                        <valItem ident="PSB"><gloss>Penn State Behrend</gloss></valItem>
+                     
+                     </valList>
+                  </attDef>
+               </attList>
+            </elementSpec>
+           
+            
+            
+            
+      </schemaSpec>
+      </body>
+  </text>
+</TEI>
