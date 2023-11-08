@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Minutes of the meeting for the Advisory Board for the Pennsylvania State College
+               in Erie.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>1948-07-07;Erie,PA.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These are notes from the Advisory Board meeting from July 7th,1948 that were taken by
+               the secretary.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Minutes of the meeting for the Advisory Board for the Pennsylvania State College in
+            Erie.</p>
+         <p>Time:4:30 P.M.,July 7th,1948.</p>
+         <p>Place:Board Room of the Manufacturers' Association</p>
+         <p>Those Present:Mrs.Mary B. Behrend Mr.Edwin Nick Mr. R.C. Reed Mr. Bertram E. Claridge
+            Mr. W. Pitt Gifford Mr. N.A. Carlson Mr. H.C. Mitchell Mr. G.R. Fryling Mr. Allyn Wright
+            Mr. J.A. Zurn Mr. J.O. Keller Mr. Reed Ferguson Mr. Dale Lindsey Mr. R.C. Henzi </p>
+         <p>The meeting was informally called to order by Mr. R.C. Reed. Mr. Reed expressed his
+            appreciation of the work done by all the members of the original committee. In the name
+            of this group,Mr. Reed thanked Mrs. Behrend for her most generous gift of the Behrend
+            farm,given to the college as a memorial to her husband,the late Ernest R. Behrend</p>
+         <p>Mr. Reed introduced Mr. J.O. Keller,Assistant to the President in Charge of Extension Mr. Keller's  </p>
+      </body>
+   </text>
+</TEI>
