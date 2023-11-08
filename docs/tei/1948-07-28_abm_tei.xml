@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../out/behrendFoundODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../out/behrendFoundODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-      <fileDesc>
+      <fileDesc><!-- 2023-11-08 ebb: UPDATE THIS TEI HEADER to make sure they are equivalent / consistent across the project. Use MB_Dedication. (You don't have to have a handNote for every one of these.) -->
          <titleStmt>
             <title>1948-07-28 Advisory Board Meeting</title>
          </titleStmt>

@@ -45,16 +45,16 @@
                      <datatype>
                         <rng:text/>
                      </datatype>
-                     <valList type="semi">
+                     <valList type="closed">
                         <valItem ident="Behrend_Ernst"/>
                         <valItem ident="Bebko_Donald"/>
                         <valItem ident="Ferguson_Mr"/>
                         <valItem ident="Gifford_Mr"/>
-                        <valItem ident="Grace_Burt"/>
+                        <valItem ident="Burt_Grace"/>
                         <valItem ident="Henzi_Mr"/>
                         <valItem ident="JCAinsworth_Mr"/>
                         <valItem ident="Keller_Dr"/>
-                        <valItem ident="Carter_Maud"/>
+                        <valItem ident="Carter_Maud"><gloss>later known as Mrs. Shannon</gloss></valItem>
                         <valItem ident="Milholland"/>
                         <valItem ident="Brust_Mrs_Will"/>
                      </valList>
@@ -69,7 +69,7 @@
                      <datatype>
                         <rng:text/>
                      </datatype>
-                     <valList type="semi">
+                     <valList type="closed">
                         <valItem ident="Argentina"/>
                         <valItem ident="Austria"/>
                         <valItem ident="BC"><gloss>Behrend Center</gloss></valItem>
@@ -93,9 +93,10 @@
                      <datatype>
                         <rng:text/>
                      </datatype>
-                     <valList type="semi">
+                     <valList type="closed">
                         <valItem ident="Ham"><gloss>Hammermill Paper Company</gloss></valItem>
                         <valItem ident="PSB"><gloss>Penn State Behrend</gloss></valItem>
+                        <valItem ident="RedCross"><gloss>Red Cross</gloss></valItem>
                      
                      </valList>
                   </attDef>

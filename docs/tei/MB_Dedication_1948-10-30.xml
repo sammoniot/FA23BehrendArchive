@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../out/behrendFoundODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../out/behrendFoundODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,17 +87,17 @@
             cleverly figured out and I congratulate them I used to publish a small magazine many
             years ago, the Grasshopper, 250 Only to say I still love the smell of printers' ink and
             beleive I could soon catch on to setting type once more.</p>
-         <p n="11">I would like to shake hands with <persName ref="Grace_Burt">Grace Burt</persName>
-            and <persName ref="Donald_Bebko">Donald Bebko</persName>, the first young people from
+         <p n="11">I would like to shake hands with <persName ref="Burt_Grace">Grace Burt</persName>
+            and <persName ref="Bebko_Donald">Donald Bebko</persName>, the first young people from
             the Hammermill to take the courses at Behrend Center</p>
          <p n="12">When I first visited Erie back in 1905 and 1906, I met Ernst Behrend. I came out
-            to visit <persName ref="Maud_Carter">Maud Carter</persName> (now Mrs. Shannon and head
-            of the Red Cross) and I am happy she is here today. She will remember that just before
+            to visit <persName ref="Carter_Maud">Maud Carter</persName> (now Mrs. Shannon and head
+            of the <orgName ref="RedCross">Red Cross</orgName>) and I am happy she is here today. She will remember that just before
             the first dinner party the men we were to meet were being described to us and I was
             asked by whom would you like to sit? And I replied, "I think I would like to sit beside
             the paper man-he seems the nicest, " and he was.</p>
          <p n="13">During these visits, I met his parents. They came in those days every summer and
-            spent three months in Erie. <persName ref="Mrs_Will_Brust">Mrs. William
+            spent three months in Erie. <persName ref="Brust_Mrs_Will">Mrs. William
             Brust</persName>, a sister now living in Erie, always came with them. Mrs. Brust, I am
             happy to say is here today.</p>
          <p n="14">The Mother was a dependable and lovely person and made many friends in <placeName ref="Erie">Erie</placeName>. The Father was one of the most interesting men I have ever
@@ -111,7 +113,7 @@
             New England, and "go west.</p>
          <p n="16">During the first years of our married life, we lived almost in the mill yard with
             the switching engines snorting past the front porch. Interesting years-visitors from all
-            over the world it seemed: <placeName ref="Norway">Norway</placeName>, <placeName ref="Swed">Sweden</placeName>, <placeName ref="Engl">England</placeName>, <placeName ref="Ger">Germany</placeName>, <placeName ref="Austria">Austria</placeName>, <placeName ref="Argentina">the Argentine</placeName>,
+            over the world it seemed: <placeName ref="Norway">Norway</placeName>, <placeName ref="Sweden">Sweden</placeName>, <placeName ref="England">England</placeName>, <placeName ref="Germany">Germany</placeName>, <placeName ref="Austria">Austria</placeName>, <placeName ref="Argentina">the Argentine</placeName>,
             <placeName ref="Brazil">Brazil</placeName>, etc., etc.</p>
          <p n="17">When our two children were old enough to travel they accompanied us on our
             cruises and tours--twice around the world and to the West Indies several times, South
@@ -129,7 +131,7 @@
             physical department at the Y.M.C.A., took us first to see the location. We came out here
             often and had picnics. We used to take long walks through the woods and later had some
             western ponies we rode. There were always many dogs--we both liked them. (I am glad
-            there are dogs here now.) Many happy years were spent at <placeName ref="Glennhill_Farm"/>. We three loved it all</p>
+            there are dogs here now.) Many happy years were spent at <placeName ref="Glenhill_Farm"/>. We three loved it all</p>
          <p n="21">My husband always had time to talk with young people and to be of help to them to
             the best of his ability. I remember hearing him say more than once that it meant more to
             him to feel that young people were <q>making good</q> in the mills than to read balance

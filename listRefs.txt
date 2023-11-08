@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+LIST OF PEOPLE IDS: 
+<ul xmlns="http://www.w3.org/1999/xhtml">
+   <li>Behrend_Ernst</li>
+   <li>Donald_Bebko</li>
+   <li>Ferguson_Mr</li>
+   <li>Gifford_Mr</li>
+   <li>Grace_Burt</li>
+   <li>Henzi_Mr</li>
+   <li>JCAinsworth_Mr</li>
+   <li>Keller_Dr</li>
+   <li>Maud_Carter</li>
+   <li>Milholland</li>
+   <li>Mrs_Will_Brust</li>
+</ul>
+
+LIST OF PLACE IDS:
+<ul xmlns="http://www.w3.org/1999/xhtml">
+   <li>Argentina</li>
+   <li>Austria</li>
+   <li>BC</li>
+   <li>Brazil</li>
+   <li>Engl</li>
+   <li>Erie</li>
+   <li>Ger</li>
+   <li>Glenhill_Farm</li>
+   <li>Glennhill_Farm</li>
+   <li>Hamot_Hospital</li>
+   <li>Norway</li>
+   <li>Swed</li>
+</ul>
+
+
+LIST OF ORG IDS:
+<ul xmlns="http://www.w3.org/1999/xhtml">
+   <li>Ham</li>
+</ul>
