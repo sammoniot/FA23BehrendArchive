@@ -3,43 +3,58 @@
 <?xml-model href="../out/behrendFoundODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-      <fileDesc><!-- 2023-11-08 ebb: UPDATE THIS TEI HEADER to make sure they are equivalent / consistent across the project. Use MB_Dedication. (You don't have to have a handNote for every one of these.) -->
+      <fileDesc>
+         <!-- 2023-11-08 ebb: UPDATE THIS TEI HEADER to make sure they are equivalent / consistent across the project. Use MB_Dedication. (You don't have to have a handNote for every one of these.) -->
          <titleStmt>
             <title>1948-07-28 Advisory Board Meeting</title>
+            <author>R.C. Henzi</author>
+            <meeting>Advisory Board Metting to discuss changing the name of the campus and various
+               other concerns.</meeting>
          </titleStmt>
          <publicationStmt>
-            <p>1948-07-28,Erie,PA.</p>
+            <p>Encoded by Samantha Moniot on <date when="2023-11-01">November 1st,2023.</date></p>
+            <p><ptr target="https://github.com/sammoniot/FA23BehrendArchive"/>Our GitHub repo!</p>
+
          </publicationStmt>
          <sourceDesc>
-            <p>These are notes taken by the secretary of the Advisory Board at Behrend for the
-               meeting that occured July 28th,1948.</p>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Penn State Erie, The Behrend College Lilley Library</repository>
+               </msIdentifier>
+               <msContents>
+                  <p>Advisory Board meeting that was held on <date when="1948-07-28">July
+                        28th,1948.</date></p>
+               </msContents>
+              <physDesc>
+                 <typeDesc><typeNote>text from a typewriter in black ink. </typeNote></typeDesc>
+              </physDesc>
+            </msDesc>
          </sourceDesc>
+
       </fileDesc>
    </teiHeader>
    <text>
       <body>
          <docAuthor>R.C. Henzi</docAuthor>
-         
-         <p><title>Minutes of the meeting for the Advisory Board for the Pennsylvania State College in
-            Erie.</title></p>
+
+         <p><title>Minutes of the meeting for the Advisory Board for the Pennsylvania State College
+               in Erie.</title></p>
          <p><time>Time: 4:00 P.M.,July 28,1948</time></p>
          <p>Place: The Behrend Center</p>
-         <p>Those Members Present:Mrs. H.C Ogden Mrs. C.Dean Klahr Mr. Edwin W. Nick Mr.
-            R.C. Reed Mr. Bertram E. Claridge Mr. N.A. Carlson Mr. H.C. Mitchell Mr. G.R.
-            Fryling Mr. Allyn Wright Mr. J.A. Zurn Mr. T.Reed Ferguson Mr. R.C. Henzi
-        </p>
+         <p>Those Members Present:Mrs. H.C Ogden Mrs. C.Dean Klahr Mr. Edwin W. Nick Mr. R.C. Reed
+            Mr. Bertram E. Claridge Mr. N.A. Carlson Mr. H.C. Mitchell Mr. G.R. Fryling Mr. Allyn
+            Wright Mr. J.A. Zurn Mr. T.Reed Ferguson Mr. R.C. Henzi </p>
          <p>Visitor Present: Mr.E.L. Keller</p>
-         <p>Members Not Present:Mr. W Pitt Gifford Mrs. Mary B. Behrend Mr. H.L.R. Emmet
-            Dr. C. Herman Grose Mr. Ellis T. Knobloch Mr. J.O. Keller Dr. Paul H.
-            Henkel</p>
+         <p>Members Not Present:Mr. W Pitt Gifford Mrs. Mary B. Behrend Mr. H.L.R. Emmet Dr. C.
+            Herman Grose Mr. Ellis T. Knobloch Mr. J.O. Keller Dr. Paul H. Henkel</p>
          <p>Mr. E.W. Nick,President,called the meeting to order. He asked the Secretary to read the
             minutes of the previous meeting. Mr. Henzi read the minutes of the meeting.A motion to
             accept the minutes was made by Mr. Claridge and seconded by Mr.Zurn.</p>
          <p>Mr. E.W. Nick,President,called the meeting to order. He asked the Secretary to read the
             minutes of the previous meeting. Mr. Henzi read the minutes of the meeting.A motion to
             accept the minutes was made by Mr. Claridge and seconded by Mr.Zurn.</p>
-         <p>Mr. Nick asked the Secretary to mail the minutes of all future meetings to each member of
-            the Board.</p>
+         <p>Mr. Nick asked the Secretary to mail the minutes of all future meetings to each member
+            of the Board.</p>
          <p>Mr. Nick asked Mr. Ferguson,Administrative Head,for a resume of the general situation at
             the Behrend Center.Mr. Ferguson covered the construction work to date and stated that
             the work is ahead of scheduele. Mr. Ferguson also brought the Advisory Board members
@@ -57,14 +72,15 @@
             Center.Mr. E.L. Keller suggested that one means might be for the Advisory Board to
             formally petition the Board of Trustees of the College for this change. It was pointed
             out that "Center" was the word used in the agreement between Mrs. Behrend and the
-            College Trustees. At this juncture,Mr. Nick suggested that</p> <p>this terminology was only used as a matter of convience,and that Mrs. Behrend definitley
-               wanted the name to be Behrend College,if that was at all possible. Some of the reason
-               for changing the name to "College" are: (1) A matter of pride among the students in
-               attending a college rather than a Center. (2) There are a number of institutions that
-               use the word "Center" in their titles,thus leading to posdible confusion.(3) The natural
-               couse of events might well be that the Pennsylvania State College will become a
-               university,in which case "Behrend College" would be a logical name. Other views were
-               offfered by members of the Board.</p>
+            College Trustees. At this juncture,Mr. Nick suggested that</p>
+         <p>this terminology was only used as a matter of convience,and that Mrs. Behrend definitley
+            wanted the name to be Behrend College,if that was at all possible. Some of the reason
+            for changing the name to "College" are: (1) A matter of pride among the students in
+            attending a college rather than a Center. (2) There are a number of institutions that
+            use the word "Center" in their titles,thus leading to posdible confusion.(3) The natural
+            couse of events might well be that the Pennsylvania State College will become a
+            university,in which case "Behrend College" would be a logical name. Other views were
+            offfered by members of the Board.</p>
          <p>It was moved by Mr. Fryling that the Erie branch be called "Behrend College" . This was
             seconded by Mr. Carlson and the motion was passed. It was agreed that the President of
             the Advisory Board write a letter to the Board of Trustees listing these valid reasons
@@ -76,8 +92,8 @@
             TO CHANGING NAME OF COLLEGE BRANCH IN ERIE TO BEHREND COLLEGE STOP ALL BOARD MEMBERS
             UNANIMOUS IN THIS REQUEST STOP SHE IS WRITING TRUSTEES TO THIS EFFECT E W NICK PRESIDENT
             ADVISORY BOARD"</p>
-         <p>A more detailed letter was also to be mailed to President Milholland on this matter.(copy
-            attached) </p>
+         <p>A more detailed letter was also to be mailed to President Milholland on this
+            matter.(copy attached) </p>
          <p>A general discussion was held on the dedication set for September 11,1948,Saturday
             Afternoon.The president of the advisory board suggested the Judge Hirt be asked to give
             the acceptance speech in the name of the community.This suggestion was made as a motion
@@ -96,9 +112,8 @@
          <p>A short discussion was held on the need for pianos at the center. The Advisory Board
             members were asked to do what they could toward securing these instruments. </p>
          <p>The meeting adjourned at 5:25 P.M.</p>
-         <p>R.C. Henzi
-            Secretary</p>
+         <p>R.C. Henzi Secretary</p>
          <p>RCH:ci</p>
-            </body>
+      </body>
    </text>
 </TEI>
