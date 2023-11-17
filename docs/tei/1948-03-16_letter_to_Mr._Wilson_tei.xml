@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter to Mr. Wilson</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded by Samantha Moniot on <date when="2023-11-17">11-17-2023</date></p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Penn State Erie, The Behrend College Lilley Library</repository>
+               </msIdentifier>
+               <msContents>
+                  <p>Letter written by Dr. A.A. Potter,the Dean of Engineering to Mr. Wilson. <date
+                        when="1948-03-16">March 16, 1948</date></p>
+               </msContents>
+               <physDesc>
+                  <typeDesc>
+                     <typeNote>The text was written via typewriter with black ink.</typeNote>
+                  </typeDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <docAuthor>Dr. A.A. Potter</docAuthor>
+         <head>FN-205 COPY for M.M. Boring Schenectady Works GENERAL ELECTRIC COMPANY bc: D.B. Pugh
+            E.W. Nick R.P. Wright Commonwealth of Pennsylvania G.H. Sturges JOINT STATE GOVERNMENT
+            COMMISSION Of the General Assembly P.O. Box 61 Room 450 - Capitol Building Harrisburg
+            March 16,1948 Mr. G.W. Wilson,Manager Transportation Division GENERAL ELECTRIC COMPANY
+            Erie,Pennsylvania </head>
+         <p>Dear Mr. Wilson: Study-Demand for Personnel at Post-High School Level I am assisting Dr.
+            George A. Works,Director Post High-School,in connection with the study he is making of
+            the demand for scientific </p>
+         <p>and technical personnel in the fields of engineering and in the areas commonly referred
+            to as "Technical Institutes." This study is the result of an Act passed in July 1947 by
+            the General Assembly of the Commonwealth of Pennsylvania authorizing The Joint State
+            Government Commission to study personnel needs of different types. You can aid me in
+            this study by furnishing me the following information:</p>
+         <p>1. How many people does your industry employ?</p>
+         <p>2. What percentage of your employees may be classed as working in technical
+            occupations</p>
+         <p>3. Of your employees in technical occupations how many are Engineers with a college
+            degree in engineering or the equivalent?</p>
+         <p>4. Of your employees in technical occupations how many are in occupations auxiliary to
+            engineering such as draftsman,testers,inspectors, technicians and similar categories
+            which ordinarily acquire these so-called technical Institute type of preparation that is
+            employees in the same areas between the skilled crafts and engineering</p>
+         <p>5. Of the engineers employed by your organization, what percentage or graduates from
+            Pennsylvania engineering colleges?</p>
+         <p>6. Do you feel that the engineering output of Pennsylvania colleges should be increased
+            if so should additional engineering College facilities be made available by increasing
+            the facilities of the present institutions,</p>
+         <p>Mr. G.W. Wilson -2- March 16th,1948</p>
+         <p>by adding new institutions, or by encouraging more of the existing Pennsylvania College
+            not now offering engineering to start engineering programs of study</p>
+         <p>7. Are the facilities in Pennsylvania adequate to meet the needs for technical employees
+            in the area between the skilled Ccaftsman and are engineers? If not, what facilities
+            should be made available in Pennsylvania for the so-called "Technical Institute" type of
+            education? Where should such additional technical institutes be located?</p>
+         <p>I am taking the liberty of writing to you and to other leaders in Pennsylvania industry
+            and shall appreciate a reply to any of the questions about also any other information
+            which may prove helpful to me an appraising in the adequacy of the facilities in
+            Pennsylvania to meet the needs of industry for engineering personnel and for those with
+            the technical institute type of preparation</p>
+         <p>Very sincerely yours,</p>
+         <p>A.A. Potter Dean of Engineering</p>
+         <p> AAP:MMG</p>
+         <p>cc:-Dr. George A. Works</p>
+         <p>P.S. PLEASE ADDRESS YOUR REPLY TO THIS LETTER TO:</p>
+         <p>Dr. A.A. Potter Dean of Engineering 
+            Purdue University 
+            Lafayette, Indiana</p>
+      </body>
+   </text>
+</TEI>
