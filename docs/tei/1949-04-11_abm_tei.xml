@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>MINUTES OF THE MEETING OF THE ADVISORY BOARD THE PENNSYLVANIA STATE COLLEGE BEHREND
+            CENTER ERIE, PA.</p>
+         <p>A luncheon meeting of the Advisory Board for The Ponnoylvania State Collage, Behr ond
+            Center, Erie, Pa, was held on Monday, April 11, 1949 at 12:15 p. m. the Center.</p>
+         <p>Those members present were:</p>
+         <p>Dr• C. Herman Grose Mr, • E. To Knobloch Mrs. C. Dean Klahr Mrs. H. C. Ogden Irr Ga R •
+            Fryling Mr. H. C. Mitchell Mr• B. E. Claridge Mr• Robert Reed Mr • Allyn Wright Mrs.
+            Mory B. Behrend Mr. I. Reed Ferguson fir. R. C. Henzi</p>
+         <p>Visitors Present:</p>
+         <p> Mr• E. L. Keller • S. H. Campbell Mr • K. L. Holderman Mr. Othmar Wuenschel</p>
+         <p>Members not present:</p>
+         <p>Mr. He L. R. Emmet Mr M. A. Carlson Mr. W. Pitt Gifford lir. J. A. Zurn Dr • Paul H.
+            Henkel Mr. E. W. Nick</p>
+         <p>Mr. Robert Reed, Vice-President, called the meeting to order and expressed appreciation
+            for the nice lunch and welcomed all visitors to the meeting.</p>
+         <p>Mir. G. R. Fryling offered the motion that the minutes of the previous meet- ing be
+            accepted. The motion carried. Reading of tho minutes was foregono since all members had
+            received copies.</p>
+         <p>Mr. Reed expressed his, and his family's, appreciation for the letter of condolence sent
+            on his father's death.</p>
+         <p>The Administrative Head, Mr. Ferguson, gave a brief report of the activ- ities covering
+            the following points:</p>
+         <p>L. The second semester enrollment is 160 freshmen, of which 30 are new students.</p>
+         <p>2. 100 course enrollments in the Evening Technical Instituto.</p>
+         <p>3. Two graduate Extension courses, with enrollments of twenty each. They are: "Safety
+            Education" and "Modern Tendencios In American Education.'</p>
+         <p>4. A Motor Fleet Supervision course is in operation in Warren, with an enrollment of
+            twenty porsons.</p>
+         <p>5. 11r. Goorgo Harvoy is conduoting two fly-tying classos in Erio, and on in Sharon,
+            with total onrollmont of 61 porsons.</p>
+         <p>G. A Spooch Corrootion Clinic is boing conductod at tho Contor by Mr. Tilliom Horoan and
+            throo individuals aro roooiving training through tho Stato Rohabilitation Buroau. Mr.
+            Forguson furthor statod that sinoo tho inauguration of this sorvico many of tho froshmon
+            havo roquostod holp in spooch and readingo</p>
+         <p>7. Many clubs and sociotios havo boon making use of the Contor to hold their rogular
+            mootings. Tho Administrative Hood said that this was to be onoouragod as Bohrond Contor
+            should bo availablo to any worthy community group.</p>
+         <p>8. Mr. Balmor, Chomistry Instructor, is in charge of a radio program ovory Saturday at
+            6:30 p. me, under tho auspicos of the American Chemioal Socioty.</p>
+         <p>9. The Contor holpod tho Erie Paronts Toachors Association con- duct a Forum in which
+            mombers of tho local and campus staff participated as speakors.</p>
+         <p>10. All high schools in the area have beon visited for the pur- pose of informing
+            graduating seniors as to what is available at Tho Ponnsylvania State College and,
+            particularly, Behrend Center. Thoso intorested in attonding college wore givon
+            applications.</p>
+         <p>11. An Open Houso will bo hold April 28th and 29th, at which timo high school studonts
+            from the surrounding arca arc invited to inspoct Behrend Conter. Mr. Ferguson added that
+            ho hopod that all of the Board mombors would be able to visit the Conter at that
+            time.</p>
+         <p>12. Wir. Forguson pointod out that vory littlo has been done in the way of a radio
+            program from the Contor because tho staff has not had the time to do a rally good job.
+            It is hoped that soothing will bo done in telovision noxt Fall,</p>
+         <p>Mr. Rood asked what tho prosent status was in scholarships at the Contor. Ho was told
+            that at prosent thero are thro Hamunermill scholarship studonts, one Senatorial
+            Scholarship student and one Wosloyville Rotary Club Scholarship studont. He askod what
+            had boon dono on the Student Aid and Loan Fund. It was pointod out that Mr. Carlson was
+            Chairman and sinco ho was not prosent roport could not bo made on that project at this
+            timo.</p>
+         <p>Mrs. Ogdon commonted that tho College Womon's Club now has over $1,000.00 available for
+            this purposo, providod a logitimato need is establishod. There was a goneral discussion,
+            in which Mr. E. L. Kollor and Mrs. Behrend, and others took part on how tho college
+            might receive a scholarship. It was sug- gestod that approximatoly $400.00 is nocossary
+            for a scholarship at Bohrond Contor. Mr. Keller mado the statoment that generally tho
+            amount and period oovored by any scholarship was entiroly up to tho donor.</p>
+         <p>It was roported that Mr. L. G. Moyor had been contaoted on his Morchandis- ing
+            Followship idea and that based on that discussion, tho College is prosontly working on
+            dotails of how this might bo sot up,</p>
+         <p>To dato thoro has not boon official Sonato action on tho proposod two your socrotorial
+            courso. It is oxpoctod that this notion will bo forthooming so that this courso of study
+            may bo offorod at tho Contor in tho Fall of 1949</p>
+         <p>As a mombor of tho Committoo on funds for a Rocroation Hall, Mr. Rood roportod that ho
+            and Mr • Claridgo and Mr. Knobloch had mot sovoral timos. Among tho things that thoy
+            discussod and folt should bo rocommondod woro a long range plan for a building layout on
+            tho campus. The Committeo wants holp from tho Collogo in making such a gonoral layoute
+            It was folt that work should bo dono first on that building most noodod immodiatoly. It
+            was suggostod that funds might bost bo raisod by tho Alumni Association of Tho
+            Ponnsylvonia Stato Collogo in Erio. With this in mind, Mr. Othmar Wuonschol, Prosidont
+            of tho Alunni Association was askod to sit in on tho mooting. At this point Mr.
+            Muonschol romarkod that he plannod to call togothor somo of tho key mombors of tho
+            Alumni Association, following tho closo of this Advisory Board Mooting, sinco ho would
+            thon bo in possossion of additional facts. Ho furthor suggost- od that in order to put
+            such a campaign ovor it might bo woll to havo somo at- tractive skotchos and layouts of
+            tho proposod building to show to prospoctive contributors.</p>
+         <p>Mr. Rood stated that ho did not fool it nocossary that a high pressure cam- paign bo put
+            on in ordor to raiso this monoy. Mr. Kollor suggostod that tho Rocroation Building would
+            be an oxcollent projoct for tho idvisory Board sincc the Collego must nocossorily bo
+            first and primarily concorned with adoquato facilities for study. Ho motioned
+            spocifically additional noods in the scionce Building. His basis for this romark was tho
+            anticipation of approximatoly 300 studonts for tho Fall of 1949 which is doublo thoso
+            hero prosontly; and, also, the possibility within tho noxt yeor or two of tho addition
+            of a sophomoro class. Ho furthor statod that the Collogo will go to work on a plot plan
+            for a long range building program.</p>
+         <p>Mr& Keller informed tho Board tho collego has spent $113,000.00 to date on the Bohrond
+            Contor and expocts to invost anothor $40,000,00 for this Fall It was statod that the
+            possibilities at Bohrend Centor scomed groator than thoso at other Contors and,
+            thoroforo, moro funds must be allocated. Mrs. Bohr ond told the Board that sho had
+            rocontly visited the Architocts at Phil- adolphia who built tho prosontly namod Behrond
+            Contor. Sho suggested that porhaps this architect might be all right for such a plonning
+            progrom.. Mrs. Bohrond folt that the Ponnsylvania Dutch stylo of architecture ought to
+            be maintainod throughout in any additions that would be mado, At this point Mr Koller
+            told Mrs. Behrond and othor mombors of tho Board, that in any evont all such plans would
+            havo to bo passod on by tho Colloge architects, Mrs. Bohrond thon made the vory gonorous
+            offor of $1000.00 if such financial aid would bo nocossary in order to get the projoct
+            of a campus plan underway. Mr, E, Le Koller, for the Colloge, and Mr. Rood for the
+            Board, both oxprossod their approciation at this offer. Dotails of this matter have to
+            bo workod out in tho noar future.</p>
+         <p>Mr. Koller was asked to givo an ostimato on the cost of tho Rocreation Building and ho
+            offored tho figuro of $75,000,00 as a minimum, Such a build- ing would bo availablo for
+            the ontiro community and not just tho Conter. Mr, Knobloch suggested that in the dosign
+            of this building the thought bo kopt in mind for future oxpansion. Mr. Kollor addod that
+            tho Rocroation Building location must of nocossity be docidod by available playing fiold
+            space and what the drainago program might be. Mr. Rood asked Mr. Ferguson to toll tho
+            Board the amount that was sot up for noxt your's budgot. Mr. Forguson's answor was that
+            $245,000.00 had boon allottod.</p>
+         <p>Mr. Forguson statod that ovor 150 applications aro at prosont out in tho hands of
+            possiblo froshmon studonts. It was of intorost to know from Mr. Kollorts romark that as
+            of tho ond of March tho Colloge has roceivod ovor 5,000 applications for ontranco in tho
+            Froshman Class, This roprosonts 1,000 more than appliod last yoar. lir. Rood mado tho
+            statomont that ho beliovod a largo numbor of local studonts will bo onrollod at Bohrond
+            Contor in Soptombor 1949,</p>
+         <p>Mr. Forgus on roported that Mrs. Bohrond had vory graciously loaned throo paintings to
+            the Conter to bo hung on our, at prosont, somewhat boro walls,</p>
+         <p>The Board recoivod with much intorost, the information from Mr. Forguson that tho
+            Student Council had inauguratod a survey of studonts and parents to dotormine tho number
+            who would like to return to Bohrend Contor noxt yoor for thoir Sophomore work.</p>
+         <p>The Student Council has sont cards to local alumni asking for donations of books for tho
+            Library. The roturns on this roquost havo boon gratifying.</p>
+         <p>Mrs. Behrond informed tho Board that sho would liko to rofurnish tho prosont library
+            room with somo piocos of furniture that belongod to Mr. Bohrend porsonally and are now
+            in the Hammermill Papor Company officos. This could bo dono sinco suggostod plans for
+            additional facilitios this Fall include the moving of the prosent library to the
+            classroom building. Mr. Keller pointod out that omphasis would bo placod on providing
+            the Bohrend Center library with a number of scientific volumos that would bo of value to
+            industry, as woll as the students; It is hoped that local industry can bo acquaintod
+            with the matorial the library will possess so that thy may make use of it during the
+            evonings.</p>
+         <p>1 motion was mado and socondod for adjournmont at 2:05 p. m.</p> Rospoctfully submitted
+         <!-- Fill in signature--> Re C. Honzi, Secrotary </body>
+   </text>
+</TEI>

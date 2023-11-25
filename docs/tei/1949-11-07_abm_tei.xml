@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>MINUTES OF THE MEETING OF THE ADVISORY BOARD
+            THE PENNSYLVANIA STATE COLLEGE
+            BEHREND CENTER
+            ERIB, PA.</p>
+            <p>The first meeting for 1949-50 of the Advisory Board for The Ponnsylvania stato
+            College, Behrend Center, Brie, Pennsylvania was hold on Monday, Novomber 7th at
+            * P, m. in the Library at the Center.
+            Mrs. C. Dean Klahr presided at the toa
+            table, using the new tea service which she and Mrs. H. C. Ogden had purohased
+            from funds raised at a benefit bridge party.</p>
+            <p>Those members present were:</p>
+            <p>Mr o Be We Nick, Prosident
+            Mr, Ro
+            Co
+            Reed, Vice-President
+            Mr
+            Wo Pitt Gifford
+            Mr 。
+            • No Ao Carlson
+            Mr. H. Co Mitchell
+            Mr. Allyn Wright
+            As
+            Zurn
+            Mr• Eo
+            I. Knobloch
+            Mrs Co
+            Dean Klahr
+            Mrs. H.
+            C.
+            Ogden
+            Mr. I. Reed Ferguson</p><!-- people need seperated and tagged with elements and attributes-->
+            <p>Visitor Present:</p>
+            <p>Mr o S. H. Campbell</p>
+            <p>Wro Eo W. Nick, President, called the meeting to order and asked for a report of
+            activities at the Behrend Center by Reed Ferguson, Administrative Head at the
+            Behrend Center.
+            The following report was presented:</p>
+            <p>ENROLLIENT - Credit Students
+            Day Technical Institute
+            Total Full-time Students
+            170
+            30
+            Erie Technical Institute
+            97
+            Oil City Class Center
+            40
+            Sharon Class Conter
+            57
+            Leisure-Time Classes in process of organization
+            Insurance Classes
+            24
+            Speech Clinio
+            8 (Full-Time Students)</p>
+            <p>No Ferguson also gave a brief resume on the Executive Workshop held at the
+            Behrend Center in September•</p>
+            <p>Course in Pulp & Paper Making which Behrend Center is operating in conjunction
+            with the Hammermill Paper Company.
+            Ho also indicated changes which had been
+            mado at the Conter during the past summer, such as library shelves, Speech Clinic
+            dishwasher and steam table for kitchen and an additional office.</p>
+           <p> Mr. Ferguson placed before the group the problem of finding adequate spaoe for
+            ovening classes in the city of Erie,
+            since the public schools are not opened for
+            Ponn State ovening classes and adults do not like traveling to the Center for
+            evening classes,
+            the enrollment for night courses is low.
+            He emphasized that
+            space in the YMCA, YWCA and Chamber
+            of Conmorce is being used. However, ad-
+            ditional space is needed.</p>
+         <p>A suggostion was made by one of the membors of the possibility of ronting spado
+         from the Brie Businoss Collogo, or Erie Commoroial Collogo.
+         Nr • Forguson ro-
+         ported that ho will invostigato tho matter.</p>
+         <p>Wire Ne
+         ,A. Carlson, as well as othor mombors of tho Board, oxprossod tho opinion
+         that the collogo and this Boord should not again roguost pormission to uso tho
+         public school buildinge.</p>
+         <p>" discussion followed concorning Ponn Stato studonts attonding Stato Toachors
+         Collegos and Cooporating Collogos in tho area while Bohrond Contor was still in
+         nod of students.
+         A motion was mado by Mr. E. Te Knobloch, secondod by ir.
+         No A. Carlson, was passod, dirocting tho socrotary to vito a lottor to Prosidont
+         Milholland and J. 0. Kollor in regard to this mattor.</p>
+         <p>Prosidont Nick callod on Mr. S. He Compboll, from tho main campus, to toll of
+         rosont devolopmonts concorning tho rocroational building.
+         Mr.
+         , Campbol1 pro-
+         seatod a now plan and skotoh of the proposod building as dovelopod by Harboson,
+         He ugh, Livingston and Larson, tho collogo architocts.
+         Aftor somo discussion
+         conserning tho possibilitios of raising monoy for this building, it '
+         was agrood
+         that any dofinito stops to start a compaign should bo postponed until businoss
+         conditions improvo.
+         Moonhilo, (1) plans should be sont to Mrs. Bohrond for
+         approval; (2) the college should continuo to got dotails and costs of tho build-
+         ing: (3) mombors of the Advisory Boord should dotormino by porsonal contacts
+         whothor it would now bo possiblo to raise $150,000.00 for such a building.</p>
+         <p>Ir. Nick stated that tho torms of throe Advisory Board mombors oxpirod this yoar,
+         Je
+         A. Zurn, Ho L• Ro Enmott and Ellis I. Knobloch. Upon due oloction, the same
+         mombors were roolected for a three year torm.</p>
+         <p>The rosignation of Dr. Paul H. Honkol was prosontod by Mr. Nick and Mr. Dana Jones
+         was looted to tako his place on the Board.</p>
+         <p>Ir•
+         I. Rood Forguson read a lottor from Dr. Groso quostioning tho advisibility of
+         his rosignation
+         since ho will livo in Harrisburg whilo sorving as Doputy Suporin-
+         tondont of Public Instructions and would be unablo to participato activoly as a
+         momber of the Advisory Board.
+         Tho Board unanimously docided that ho should ro-
+         main a mombor despito his absence.
+         Mr. Nick stated that tho By-lows oall for annual oleotions,
+         The following officors
+         woro reclocted:
+         Mr •
+         E. We Nick, Prosidont
+         Mr Ra
+         C. Rood, Vice-President
+         Mr. B. E• Claridgo, Troasuror</p>
+        <p> Mr,
+         Allyn Wright was olocted Secrotary to roplaco Mr. R. C. Honzi who is no longor
+         with the colloge.</p>
+         <p>Mro
+         I. Rood Ferguson askod whother it would bo possiblo for tho Scholarship Com-
+         mittoo to socure any scholarships for possiblo students at the Bohrond Contor,
+         Immodi atoly Mr. N.
+         As Carlson, Chairman of this Committoo, offered a scholarship,
+         to bo callod the L. O. Carlson Scholarship, for a boy from Acadomy High School.
+         In quick succossion, Mr.
+         John Zurn, and Mr. E. W. Nick, offered similar scholar-
+         chips for Strong Vincont High School.
+         The Committoe agreed to assumo the ro-
+         sponsibility of contacting additional industrios and individuals to socure othor
+         scholarships for tho city and county studonts. Sinco many scholarships aro avail-
+         able from othor local collogos to high school students in the city and county,
+         nood is folt for scholarships ranging in valuo from $50.00 to $200.00 por yoar
+         for Froshmon and Day Tochnical Instituto studonts ontoring Bohrond Contor.</p>
+         <p>Tho idvisory Board, as a body, thankod Hrs. C. Down Klahr and Ira. Harold s.
+         Ogdon for thoir fino work in souring tho too sorvico which thoy had prosontod
+         to the collogo.
+         A motion was mado and soconded for adjournmont at 6 p. m.
+         Rospootfully submittod
+         •At</p>
+      </body>
+  </text>
+</TEI>
