@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../out/behrendFoundODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../out/behrendFoundODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mary Behrend Dedication Speech</title>
+            <author ref="Behrend_Mary">Mary Behrend</author>
+            <meeting>Speech was said to the Founders of Penn State Behrend, Board Members, Students,
+               and Guests </meeting>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded by Lindsey Wood on <date when="2023-11-06">11-06-2023</date></p>
+            <!--ebb: Let's find a way to include the URL for your GitHub repo in here
+            using <ptr target="Your-GitHub-Repo, or GitHub Pages Website URL"/>
+            -->
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Penn State Erie, The Behrend College Lilley Library</repository>
+               </msIdentifier>
+               <msContents>
+                  <p>TALK GIVEN BY MRS. BEHREND AT THE DEDICATION OF BEHREND CENTER <date
+                        when="1948-10-30">OCTOBER 30, 1948</date></p>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <handNote xml:id="greenPen" medium="green ink pen">Unknown writer marking
+                        corrections on the typescript.</handNote>
+                  </handDesc>
+                  <typeDesc>
+                     <typeNote>text from a typewriter in black ink.</typeNote>
+                  </typeDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>TALK GIVEN BY MRS. BEHREND AT THE DEDICATION OF BEHREND CENTER OCTOBER 30, 1948</head>
+         <p n="1"><persName ref="Milholland">President Milholland</persName>,<persName
+               ref="Keller_Dr">Dr. Keller</persName>, <persName ref="Ferguson_Mr">Mr.
+               Ferguson</persName>, Members of the various boards of Behrend Center, Students and
+            Guests:</p>
+         <p n="2">This day of the dedication is a very important one for both my daughter and
+            myself. We often have had in mind aver since we were left with <placeName
+               ref="Glenhill_Farm">Glenhill Farm</placeName> that it should be used if at all
+            possible for a school or some place of some educational purpose. Over a number of years
+            I tried to accomplish this. It could have been sold for a gambling place, a development
+            program, several low offers came for a residence site (usually with the plan to divide
+            it in one way or another.)</p>
+         <p n="3">Last spring, when I returned from California, I stopped off in <placeName
+               ref="Erie">Erie</placeName> and saw several protects. While in the midst of this here
+            at the farm, I noticed, two visitors walking along over by the pool. So I went out and
+            said to them, "I am Mrs. Behrend. Can I do anything for you?" <persName ref="Keller_Dr"
+            /> and <persName ref="Henzi_Mr"/> presented themselves and Dr. Keller said they were
+            looking around for a spot to locate an Erie center for Pennsylvania State College. I
+            took them all around the place. Dr. Keller knew what was needed and his questions and
+            remarks were very much to the point. After an hour, he asked if he could call up State
+            College. Then things moved along. I went back East knowing that Pennsylvania State
+            College wanted to buy the farm. It seemed so very right that it should be used in
+            connection with an established college.</p>
+         <p n="4">There were details to be worked out, there were numerous long distance calls with
+            my lawyer, <persName ref="Gifford_Mr">Mr. Gifford</persName>, in Erie. What impressed me
+            was the fact that State College wanted it enough to buy it, to endeavor to raise a
+            goodly amount on top of what they could pay--quite a program. They thought well enough
+            of it to want to buy it.</p>
+         <p n="5">After several days, I said to my daughter, "I think this is something that would
+            be a wonderful memorial to Father--something he almost could have planned himself. I
+            think I should give it all to the college.</p>
+         <p n="6">And that is how it came about.</p>
+         <p n="7">Looking back over many years, I know I was able to make two important and very
+            right decisions. The first in <date when="1907">1907</date> when I consented to marry
+            Ernst Behrend. The second decision was, as you may guess, to make this outright gift to
+            Pennsylvania State College of Glenhill Farm as a memorial to my husband. It is just 50
+            years since the ground was broken for the Hammermill Paper Company.</p>
+         <p n="8">It seems suitable that such a memorial should be maintained in Erie. <persName
+               ref="Behrend_Ernst">Ernst Behrend</persName> did not only head the Hammermill Paper
+            Company, but had time for various civic duties and was active on several boards in this
+            city. He was president to the <placeName ref="Hamot_Hospital"/> for several years. These
+            duties he took seriously as indeed he did his citizenship. He tried to put his best into
+            whatever he undertook.</p>
+         <p n="9">Everyone connected with the Center has been kind and considerate and, what pleases
+            me so much, so appreciative of the beauty of the build- ings and the surroundings. It is
+            gratifying to observe the care with which all details have been worked out in accordance
+            with the architect's original work. And the use which has been made of all spaces is
+            little short amazing. I am sure had there been any hen houses and large dog kennels, Mr.
+            Ferguson would have had them enlarged a bit and some members of the faculty would now be
+            living in them. Maybe not with twins but just couples!</p>
+         <p n="10">I want to express my thanks to the editors of the Nittinay Cub, the Center's
+            publication, for the very nice article about me which they printed. The magazine is
+            cleverly figured out and I congratulate them I used to publish a small magazine many
+            years ago, the Grasshopper, 250 Only to say I still love the smell of printers' ink and
+            beleive I could soon catch on to setting type once more.</p>
+         <p n="11">I would like to shake hands with <persName ref="Burt_Grace">Grace Burt</persName>
+            and <persName ref="Bebko_Donald">Donald Bebko</persName>, the first young people from
+            the Hammermill to take the courses at Behrend Center</p>
+         <p n="12">When I first visited Erie back in 1905 and 1906, I met Ernst Behrend. I came out
+            to visit <persName ref="Carter_Maud">Maud Carter</persName> (now Mrs. Shannon and head
+            of the <orgName ref="RedCross">Red Cross</orgName>) and I am happy she is here today.
+            She will remember that just before the first dinner party the men we were to meet were
+            being described to us and I was asked by whom would you like to sit? And I replied, "I
+            think I would like to sit beside the paper man-he seems the nicest, " and he was.</p>
+         <p n="13">During these visits, I met his parents. They came in those days every summer and
+            spent three months in Erie. <persName ref="Brust_Mrs_Will">Mrs. William
+            Brust</persName>, a sister now living in Erie, always came with them. Mrs. Brust, I am
+            happy to say is here today.</p>
+         <p n="14">The Mother was a dependable and lovely person and made many friends in <placeName
+               ref="Erie">Erie</placeName>. The Father was one of the most interesting men I have
+            ever met. Not particularly tall, with a shock of snow white hair, and fine intelligent
+            face, he presented an appearance not to be forgotten. His mind was keen. His manner of
+            unfolding a problem always fascinated me--even if I did not entirely understand what it
+            would be all about--I would always listen with rapt attention. He never seemed to use an
+            extra word, each sentence was a definite part of the whole. And then he had a loveable
+            and whimsical way of tucking in little jokes and there would be a twinkle in his
+            eye!</p>
+         <p n="15">These parents of <persName ref="Behrend_Ernst">Ernst Behrend</persName> were a
+            dependable factor when it came to making my decision to leave my family, relatives in
+            New England, and "go west.</p>
+         <p n="16">During the first years of our married life, we lived almost in the mill yard with
+            the switching engines snorting past the front porch. Interesting years-visitors from all
+            over the world it seemed: <placeName ref="Norway">Norway</placeName>, <placeName
+               ref="Sweden">Sweden</placeName>, <placeName ref="England">England</placeName>,
+               <placeName ref="Germany">Germany</placeName>, <placeName ref="Austria"
+               >Austria</placeName>, <placeName ref="Argentina">the Argentine</placeName>,
+               <placeName ref="Brazil">Brazil</placeName>, etc., etc.</p>
+         <p n="17">When our two children were old enough to travel they accompanied us on our
+            cruises and tours--twice around the world and to the West Indies several times, South
+            America and so on.</p>
+         <p n="18">Wherever we went <orgName ref="Ham">Hammermill</orgName> agents always welcomed
+            us and, while we may have missed many sights while being entertained by these kindly
+            people, we did make many good friends. To some of these I' have recently mailed
+            newspaper clippings about this memorial to Ernst Behrend in Erie and have had wonderful
+            letters in return.</p>
+         <p n="19"><rs ref="Behrend_Ernst">My husband</rs>, like <rs ref="???">his Father</rs>, had
+            a pleasant, cheery way of meet- ing people and the same little twinkle in his eye. Few
+            people today seem to have twinkles--we need more in this battered up old world.</p>
+         <p n="20">Many things happened--I cannot talk about it all. But there came a time in our
+            lives when we were sad and bewildered. It was then that we bought this farm and over the
+            years built up the place more or less as you see it today. <persName
+               ref="JCAinsworth_Mr">Mr. J. C. Ainsworth</persName>, who many of you will remember as
+            the head of the physical department at the Y.M.C.A., took us first to see the location.
+            We came out here often and had picnics. We used to take long walks through the woods and
+            later had some western ponies we rode. There were always many dogs--we both liked them.
+            (I am glad there are dogs here now.) Many happy years were spent at <placeName
+               ref="Glenhill_Farm"/>. We three loved it all</p>
+         <p n="21">My husband always had time to talk with young people and to be of help to them to
+            the best of his ability. I remember hearing him say more than once that it meant more to
+            him to feel that young people were <q>making good</q> in the mills than to read balance
+            sheets with profit figures. No matter how busy he was, there was always time in his day
+            to listen to the problems young people would bring to him.</p>
+         <p n="22">I feel grateful that the opportunity to make this gift came exactly as it did. It
+            will further one of his greatest interests- education--to be carried on where loved best
+            to be-Glenhill Farm.</p>
+         <p n="23"><add hand="greenPen">"</add>It is pleasant to feel that, over the years to come,
+            many young men and women will go forth from this lovely spot well equipped <del
+               rend="strikethrough" hand="greenPen">from</del>
+            <add hand="greenPen" place="right">with</add> the <del rend="strikethrough"
+               hand="greenPen">instruction</del>
+            <add hand="greenPen" place="left">education</add> they have received<add hand="greenPen"
+               >"</add> at the <placeName ref="BC">Behrend Center of the Pennsylvania State
+               College</placeName>. </p>
+         <p n="24">Thank you.</p>
+      </body>
+   </text>
+</TEI>
