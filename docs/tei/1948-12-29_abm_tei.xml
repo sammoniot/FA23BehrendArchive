@@ -9,149 +9,219 @@
             <title>MINUTES OF THE MEETING OF THE ADVISORY BOARD.DECEMBER 29,1948</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Encoded by Samantha Moniot on <date when="2023-11-28">November 28th,2023</date></p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Penn State Erie, The Behrend College Lilley Library</repository>
+               </msIdentifier>
+               <msContents>
+                  <p>Letter written by Dr. A.A. Potter,the Dean of Engineering to Mr. Wilson. <date
+                        when="1948-03-16">March 16, 1948</date></p>
+               </msContents>
+               <physDesc>
+                  <typeDesc>
+                     <typeNote>The text was written via typewriter with black ink.</typeNote>
+                  </typeDesc>
+               </physDesc>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
 
       <body>
-         <p><title>MINUTES OF THE MEETING OF THE ADVISORY BOARD THE PENNSYLVANIA STATE COLLEGE
-               BEHREND CENTER ERIE,PA</title></p>
-         <p>A meeting of The Advisory Board for the Pennsylvania State College Behrend Center, Erie
-            Pa. was held on Wednesday, December 29th, 1948 at 4:00 P.M. at the Center.</p>
+         <milestone unit="page1"/>
+         <p><title>MINUTES OF THE MEETING OF <orgName type="education">THE ADVISORY BOARD THE
+                  PENNSYLVANIA STATE COLLEGE BEHREND CENTER</orgName>
+               <placeName type="city">ERIE,PA</placeName></title></p>
+         <p>A meeting of <orgName type="education">The Advisory Board for the Pennsylvania State
+               College Behrend Center</orgName>, <placeName type="city">Erie Pa.</placeName> was
+            held on Wednesday,<date when="1948-12-29">December 29th, 1948</date> at <time
+               type=" afternoon">4:00 P.M.</time> at the <placeName type="education"
+               >Center</placeName>.</p>
          <p>Those members present were:</p>
-
-         <p> Mr. E. W. Nick</p>
-         <p>Mrs. H.C. Ogden Mr. G.R. Fryling </p>
-         <p>Mrs. C.D. Klahr Mr. N. A. Carlson</p>
-         <p>Mr. J.A. Zurn Mr.Allyn Wright</p>
-         <p>Mr. H.C. Mitchell Mr.W. Pit Gifford</p>
-         <p>Mr. E. T. Knobloch Mr. T. Reed Ferguson</p>
-         <p> Mr. B. E. Claridge Mr. R.C. Henzi</p>
-         <p>Visitor present: Mr.S.H. Campbell</p>
-         <p>Members not present: Mr. R.C. Reed</p>
-         <p> Mrs. Mary B Behrend</p>
-         <p> Mr. H.L.R. Emmet </p>
-         <p> Dr.C Herman Grose</p>
-         <p> Dr. Paul Henkel</p>
-         <p> Mr. E W Nick, president ,called the meeting to order. A motion was made and seconded
-            that the minutes of the last meeting not be read.</p>
-         <p>Mr. Nick asked Mr. Ferguson for a general report on all activities today at the Center.
-            Mr. Ferguson gave the details of the building program and pointed out that it was now
-            completed with exceptions of a few minor jobs he added that the money expended to date
-            was an excess of the expected 60,000.00 and when all bills are in a will probably
-            approximate 100,000.00.</p>
-         <p>The Administrative Head informed the board the third are 152 credit students in between
-            80 to 100 evening technical students in attendance at Behrend Center. In addition there
-            were also two graduate courses being offered who's enrollment constitutes over 40 local
-            school teachers.</p>
-         <p> SOCIAL EVENTS-- for the benefit of those who will not present,-- Mr. Ferguson briefly
-            outlined the activities that transpired at the formal dedication of Behrend Center. He
-            pointed out that the center was also being used by other groups which is as was
-            originally planned search groups as the Erie County Principals Association have held
-            their dinner meetings at the center a cello concert was given by a member of the local
-            Philharmonic Association. The Faculty held a dinner prior to Christmas Vacation after
-            which an amateur program was put on by the students of the Center. The students held
-            their Christmas dance at the Masonic Building Ballroom.</p>
-         <p> Mr.Ferguson informed the board that the Center would be able to take in a few new
-            students in February and at the present there are about 12 applications on hand. He
-            further predicted that the fall 1949 enrollment was expected to be around 350
-            students.</p>
+         <p><persName type="attended"> Mr. E. W. Nick</persName>
+         </p>
+         <p><persName type="attended">Mrs. H.C. Ogden</persName><persName type="attended">Mr. G.R.
+               Fryling</persName>
+         </p>
+         <p><persName type="attended">Mrs. C.D. Klahr</persName><persName type="attended"> Mr. N. A.
+               Carlson</persName></p>
+         <p><persName type="attended">Mr. J.A. Zurn</persName><persName type="attended"> Mr.Allyn
+               Wright</persName></p>
+         <p><persName type="attended">Mr. H.C. Mitchell</persName><persName type="attended"> Mr.W.
+               Pit Gifford</persName></p>
+         <p><persName type="attended">Mr. E. T. Knobloch</persName><persName type="attended"> Mr. T.
+               Reed Ferguson</persName></p>
+         <p>
+            <persName type="attended">Mr. B. E. Claridge</persName><persName type="attended"> Mr.
+               R.C. Henzi</persName></p>
+         <p>Visitor present: <persName type="attended">Mr.S.H. Campbell</persName></p>
+         <p>Members not present: <persName type="absent">Mr. R.C. Reed</persName></p>
+         <p>
+            <persName type="absent">Mrs. Mary B Behrend</persName></p>
+         <p>
+            <persName type="absent">Mr. H.L.R. Emmet</persName>
+         </p>
+         <p>
+            <persName type="absent">Dr.C Herman Grose</persName></p>
+         <p>
+            <persName type="absent">Dr. Paul Henkel</persName>
+         </p>
+         <p><persName type="attended"> Mr. E W Nick</persName>,<affiliation>president</affiliation>
+            ,called the meeting to order. A motion was made and seconded that the minutes of the
+            last meeting not be read.</p>
+         <p><persName type="attended">Mr. Nick</persName> asked <persName type="attended">Mr.
+               Ferguson</persName> for a general report on all activities today at the <placeName
+               type="education">Center</placeName>. <persName type="attended">Mr.
+               Ferguson</persName> gave the details of the building program and pointed out that it
+            was now completed with exceptions of a few minor jobs he added that the money expended
+            to date was an excess of the expected <measure type="dollars">60,000.00</measure> and
+            when all bills are in a will probably approximate <measure type="dollars"
+               >100,000.00</measure>.</p>
+         <p>The Administrative Head informed the board the third are 152 credit students and between
+            80 to 100 evening technical students in attendance at <placeName type="education"
+               >Behrend Center</placeName>. In addition there were also two graduate courses being
+            offered who's enrollment constitutes over 40 local school teachers.</p>
+         <p> SOCIAL EVENTS-- for the benefit of those who will not present,-- <persName
+               type="attended">Mr. Ferguson</persName> briefly outlined the activities that
+            transpired at the</p>
+         <listEvent>
+            <event when="1948-10-30">
+               <label>formal dedication of Behrend Center.</label>
+            </event>
+         </listEvent>
+         <p> He pointed out that the center was also being used by other groups which is as was
+            originally planned search groups as the <orgName type="education">Erie County Principals
+               Association</orgName> have held their dinner meetings at the <placeName
+               type="education">center</placeName>
+            <listEvent>
+               <event type="music">
+                  <label>a cello concert</label>
+               </event>
+            </listEvent> was given by a member of the local <orgName type="music">Philharmonic
+               Association</orgName>. The Faculty held a <listEvent>
+               <event type="food">
+                  <label>dinner</label>
+               </event>
+            </listEvent> prior to Christmas Vacation after which an amateur program was put on by
+            the students of the <placeName type="education">Center</placeName>. The students held
+            their Christmas dance at the<placeName type="ballroom">Masonic Building
+               Ballroom</placeName> .</p>
+         <p>
+            <persName type="attended">Mr.Ferguson</persName> informed <orgName type="education">the
+               board</orgName> that the <placeName>Center</placeName> would be able to take in a few
+            new students in February and at the present there are about 12 applications on hand. He
+            further predicted that the fall 1949 enrollment was expected<milestone unit="page2"/> to
+            be around 350 students.</p>
          <p>The new catalog for the fall term would be available about the <date when="1949-03-01"
                >1st of March.</date></p>
-         <p>The registration for evening classes, second term, was also discussed by Mr. Ferguson
-            and he mentioned the fact that it was planned to include a few courses that would be new
-            to the program such as Spanish, Russian and Public Speaking. The Board was brought up to
-            date on the work that will be done in a Speech Clinic in conjunction with the State
-            Office of Rehabilitation and they will also told about the plans to assist the Erie
-            Parent Teaches Association in the operation of a Forum.</p>
-         <p>GENERAL DISCUSSION ON MR. FERGUSON'S REMARKS-- Mr. Nick asked as to the status of new
-            second semester enrollees after having completed this half year's work. Mr. Ferguson
-            pointed out these students must, upon registration, sign an agreement that they will,
-            through attending summer school, prepare themselves so that they can enter school in the
-            fall as a full-fledged sophomore. </p>
+         <p>The registration for evening classes, second term, was also discussed by <persName
+               type="attended">Mr. Ferguson</persName> and he mentioned the fact that it was planned
+            to include a few courses that would be new to the program such as Spanish, Russian and
+            Public Speaking. <orgName type="education">The Board</orgName> was brought up to date on
+            the work that will be done in a <placeName type="health">Speech Clinic</placeName> in
+            conjunction with the <orgName type="health,government">State Office of
+               Rehabilitation</orgName> and they will also told about the plans to assist the
+               <orgName type="education">Erie Parent Teaches Association</orgName> in the operation
+            of a Forum.</p>
+         <p>GENERAL DISCUSSION ON <persName type="attended">MR. FERGUSON'S</persName> REMARKS--
+               <persName type="attended">Mr. Nick</persName> asked as to the status of new second
+            semester enrollees after having completed this half year's work. <persName
+               type="attended">Mr. Ferguson</persName> pointed out these students must, upon
+            registration, sign an agreement that they will, through attending <placeName
+               type="education">summer school</placeName>, prepare themselves so that they can enter
+               <placeName type="education">school</placeName> in the fall as a full-fledged
+            sophomore. </p>
          <p>The question was raised as to whether or not present facilities could accommodate the
             predicted 350 student enrollment for the fall 1949 term. It was pointed out that this
             was based on the assumption that necessary expansion of present classrooms would be
             made.</p>
-         <p>Mr. Carlson asked what the possibilities were for offering graduate work through the
-            parent Center facility, particularly for area school teachers. It was indicated that the
-            student that certain persons on the campus or working on this problem with the idea to
-            provide more than the present three credit limit of graduate work for the benefit of
+         <p><persName type="attended">Mr. Carlson</persName> asked what the possibilities were for
+            offering graduate work through the <placeName type="education">Behrend Center
+               facility</placeName> , particularly for area school teachers. It was indicated that
+            the student that certain persons on the campus or working on this problem with the idea
+            to provide more than the present three credit limit of graduate work for the benefit of
             some of the Board members it was briefly explained that the present College policy does
             not permit their recognizing more than three credits towards a master's degree on the
-            Penn State campus in spite of the fact that student other colleges will accept more than
-            three extension graduate credits offered by Penn State services. It is expected that
-            this three credit limit will be increased in the not too distant future but at present
-            it is not known just how many credits will be allowed.</p>
-         <p>Mr. Ferguson then suggested that Mr. Henzi give the Board a report on the recreation and
-            athletic activities carried on at the Center. Mr. Henzi stated that's a program at
-            present was a comparatively modest one, and due in part to the inadequacy of the present
-            facilities and to the fact that we are still much in the process of original
-            organization. The board was told that Mr. Marvin Demp, Recreational Director at the
-            Center, was directly in charge of this work and under existing circumstances, was doing
-            an excellent job. The various activities, in addition to the regular required physical
-            education program, are as follows:</p>
+               <placeName type="education">Penn State campus</placeName> in spite of the fact that
+            student other colleges will accept more than three extension graduate credits offered by
+               <orgName type="education">Penn State</orgName> services. It is expected that this
+            three credit limit will be increased in the not too distant future but at present it is
+            not known just how many credits will be allowed.</p>
+         <p><persName type="attended">Mr. Ferguson</persName> then suggested that <persName
+               type="attended">Mr. Henzi</persName>give <orgName type="education">the
+               Board</orgName> a report on the recreation and athletic activities carried on at the
+               <placeName type="education">Center</placeName>. <persName type="attended">Mr.
+               Henzi</persName> stated that's a program at present was a comparatively modest one,
+            and due in part to the inadequacy of the present facilities and to the fact that we are
+            still much in the process of original organization. The board was told that
+               <persName>Mr. Marvin Demp</persName>, <affiliation>Recreational Director
+               </affiliation>at the <placeName>Center</placeName>, was directly in charge of this work and under existing
+            circumstances, was doing an excellent job. The various activities, in addition to the
+            regular required physical education program, are as follows:</p>
          <p>MEN'S ACTIVITIES-- Intramural Basketball, six complete teams. It is planned to pick a
             representative team from these teams to play other comparable Fresh-men groups at nearby
-            institutions. These games are played in the evening at the Lawrence Park High School
-            Gymnasium and also on a church gymnasium floor</p>
-         <p>There are approximately 15 to 20 men students who spend Saturday mornings under Mr.
-            Demp's direction, in wrestling. It is not expected to have an organized wrestling team
-            at the Center but this group will have gained considerable experience in the event that
-            they are interested in wrestling as a varsity sport once they are admitted to the main
-            campus.</p>
+            institutions. These games are played in the evening at the <placeName type="education">Lawrence Park High School Gymnasium</placeName>
+            and also on a <placeName type="religious">church gymnasium floor</placeName></p>
+         <p>There are approximately 15 to 20 men students who spend Saturday mornings under <persName>Mr.
+            Demp's</persName> direction, in wrestling. It is not expected to have an organized wrestling team
+            at the <placeName type="education">Center</placeName> but this group will have gained considerable experience in the event that
+            they are interested in wrestling as a varsity sport once they are admitted to the <placeName type="education">main
+               campus.</placeName></p>
+         <milestone unit="page3"/>
          <p>The Center operates a bowling league in which over 60 persons participate one day a
             week. The comment was made that this is rather exceptional since it represents a little
             better than half of the student body. The participants in this activity are both men and
             women students and also a few of the faculty. It does much towards heightening the
             general morale of the Center and makes for a better relationship between student and
-            faculty. Mr. Henzi also gave an outline of the expected winter sports program which
-            includes skiing and ice skating. He told the Board that Mr. Lamb of the Erie Dispatch
-            had donated $100.00 to the ski club. This money will be used to buy the equipment
-            necessary to construct a ski lift. An area has also been prepared for ice skating and
-            water will be run into the prepared pond once freezing weather sets in.</p>
+            faculty. <persName/>Mr. Henzi also gave an outline of the expected winter sports program
+            which includes skiing and ice skating. He told the Board that <persName/>Mr. Lamb of the
+            Erie Dispatch had donated $100.00 to the ski club. This money will be used to buy the
+            equipment necessary to construct a ski lift. An area has also been prepared for ice
+            skating and water will be run into the prepared pond once freezing weather sets in.</p>
          <p>GIRL'S ACTIVITIES: The girls activities are somewhat limited by equipment and numbers.
             However, smaller groups have become interested in such sports as archery, golf and
             horseback riding. The outdoor pool of course is not available most of the time because
             of the weather. It was used quite extensively doing the short period in which sports
             could be carried on. </p>
-         <p>DISCUSSIONS ON SCHOLARSHIPS:-- Mr. Ferguson suggested that more scholarships could be
-            used at the Center. He informed the board that approximately 90% of the dropouts the
-            center has had to date has been because of financial difficulties. He further suggested
-            that the industrial work scholarship would be good i.e. where a company would guarantee
-            to provide a certain number of work hours in order that a needy student might earn money
-            towards his college expenses. Mr. Carlson made the statement that he was 100% for this
-            but felt the present time was somewhat inopportune for further solicitations. This
-            comment was made in view of the recent ending of a number of heavy and intensive
-            financial drives made in the local community.</p>
-         <p>Mrs. Klahr suggested that a loan fund might be set up in order to help deserving
-            students. At this point Mr. Claridge announced that the Hammermill Trust Fund will have
-            a third scholarship available starting in February. The board received this news with
-            the many expressions of enthusiasm.</p>
-         <p>Mrs. Ogden informed the Board that The College Women's Club has a Loan Fund for women
-            and that she was sure this would be available for proven deserving cases. Mr. Ferguson
-            then said the center will be very glad to use this the source if necessary there was
-            some discussion as to operation of this very necessary work and it will suggested that
-            the presently named scholarship committee be changed to the student aid committee this
-            suggestion was put into a form of a motion by Mr. Fryling and seconded by Mr. Claridge.
-            Motion was carried. The president of the board was directed to name the members to this
-            reorganized committee at an early date.</p>
-         <p>PROPOSED FELLOWSHIP-- Mr. Nick reported to the board that Mr. L.G. Meyer of PA Meyer and
-            Sons wants to establish a Chair for Merchandising and Retailing at the Behrend Center.
-            Mr. Nick asked both Mr. Ferguson and Mr. Campbell what information was available to pass
-            on to Mr. Meyer as to such matters as cost acceptance by the college and other details
-            concerned in such a move. Mossrs. Ferguson and Campbell both agreed that they would have
-            to have more information before being able to give Mr. Meyers definite facts. It was
-            decided that these gentlemen would make an appointment to see Mr. Meyers concerning
-            further details. They would then have to clear through the main campus before final
-            action could be taken on this matter. It was, however, felt that no serious difficulty
-            would be encountered and making this most generous gesture to become a reality. After
-            details have been worked out, a further report will be made to The Advisory Board.</p>
+         <p>DISCUSSIONS ON SCHOLARSHIPS:-- <persName/>Mr. Ferguson suggested that more scholarships
+            could be used at the Center. He informed the board that approximately 90% of the
+            dropouts the center has had to date has been because of financial difficulties. He
+            further suggested that the industrial work scholarship would be good i.e. where a
+            company would guarantee to provide a certain number of work hours in order that a needy
+            student might earn money towards his college expenses. <persName/>Mr. Carlson made the
+            statement that he was 100% for this but felt the present time was somewhat inopportune
+            for further solicitations. This comment was made in view of the recent ending of a
+            number of heavy and intensive financial drives made in the local community.</p>
+         <p><persName/>Mrs. Klahr suggested that a loan fund might be set up in order to help
+            deserving students. At this point<persName/> Mr. Claridge announced that the Hammermill
+            Trust Fund will have a third scholarship available starting in February. The board
+            received this news with the many expressions of enthusiasm.</p>
+         <p><persName/>Mrs. Ogden informed the Board that The College Women's Club has a Loan Fund
+            for women and that she was sure this would be available for proven deserving
+            cases.<persName/> Mr. Ferguson then said the center will be very glad to use this the
+            source if necessary there was some discussion as to operation of this very necessary
+            work and it will suggested that the presently named scholarship committee be changed to
+            the student aid committee this suggestion was put into a form of a motion by
+            <persName/>Mr. Fryling and seconded by Mr. Claridge. Motion was carried. The president
+            of the board was directed to name the members to this reorganized committee at an early
+            date.</p>
+         <p>PROPOSED FELLOWSHIP-- <persName/>Mr. Nick reported to the board that <persName/>Mr. L.G.
+            Meyer of PA Meyer and Sons wants to establish a Chair for Merchandising and Retailing at
+            the Behrend Center. Mr. Nick asked both Mr. Ferguson and Mr. Campbell what information
+            was available to pass on to Mr. Meyer as to such matters as cost acceptance by the
+            college and other details concerned in such a move. Mossrs. Ferguson and Campbell both
+            agreed that they would have to have more information before being able to give Mr.
+            Meyers definite facts. It was decided that these gentlemen would make an appointment to
+            see Mr. Meyers concerning further details. They would then have to clear through the
+            main campus before final action could be taken on this matter. It was, however, felt
+            that no serious difficulty would be encountered and making this most generous gesture to
+            become a reality. After details have been worked out, a further report will be made to
+            The Advisory Board.</p>
+         <milestone unit="page4"/>
          <p>TECHNICAL INSTITUTE PROGRAMS--Mr. Campbell told the board of Purdue Universities
             Cooperative program with the Inland Steel Corporation in which workers from this company
             went to school one day a week and took technical institute type subjects. These courses
@@ -200,6 +270,7 @@
             impossible until it could be proven to the military authorities that an adequate place
             for indoor drill was available. Such a recreation building as this would serve that
             purpose admirably.</p>
+         <milestone unit="page5"/>
          <p>Mr. Campbell was asked what the estimated cost of this building might be and his reply
             was to the effect that approximately $75,000.00 would be necessary. There was then a
             general discussion on whether or not the board would want to get a community

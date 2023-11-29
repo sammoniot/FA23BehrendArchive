@@ -34,44 +34,57 @@
    </teiHeader>
    <text>
       <body>
+         <milestone unit="page1"/>
          <p>Minutes of the meeting for the Advisory Board for the Pennsylvania State College in
             Erie.</p>
-         <p>Time:4:30 P.M.,July 7th,1948.</p>
-         <p>Place:Board Room of the Manufacturers' Association</p>
-         <p>Those Present:Mrs.Mary B. Behrend Mr.Edwin Nick Mr. R.C. Reed Mr. Bertram E. Claridge
-            Mr. W. Pitt Gifford Mr. N.A. Carlson Mr. H.C. Mitchell Mr. G.R. Fryling Mr. Allyn Wright
-            Mr. J.A. Zurn Mr. J.O. Keller Mr. Reed Ferguson Mr. Dale Lindsey Mr. R.C. Henzi </p>
-         <p>The meeting was informally called to order by Mr. R.C. Reed. Mr. Reed expressed his
+         <p>Time:4:30 P.M.,<date when="1948-07-07">July 7th,1948</date>.</p>
+         <p><placeName type="business">Place:Board Room of the Manufacturers'
+               Association</placeName></p>
+         <p>Those Present:<persName type="attended">Mrs.Mary B. Behrend</persName>
+            <persName type="attended">Mr.Edwin Nick</persName><persName type="attended">Mr. R.C.
+               Reed</persName>
+            <persName type="attended">Mr. Bertram E. Claridge</persName><persName type="attended"
+               >Mr. W.Pitt Gifford</persName>
+            <persName type="attended"> Mr. N.A. Carlson </persName>
+            <persName type="attended">Mr. H.C. Mitchell</persName>
+            <persName type="attended"> Mr. G.R. Fryling</persName>
+            <persName>Mr. Allyn Wright</persName>
+            <persName type="attended">Mr. J.A. Zurn</persName>
+            <persName type="attended">Mr. J.O. Keller</persName>
+            <persName type="attended">Mr. Reed Ferguson</persName><persName type="attended">Mr. Dale
+               Lindsey</persName><persName type="attended">Mr. R.C. Henzi</persName>  </p>
+         <p>The meeting was informally called to order by <persName type="attended">Mr. R.C. Reed</persName>. Mr. Reed expressed his
             appreciation of the work done by all the members of the original committee. In the name
-            of this group,Mr. Reed thanked Mrs. Behrend for her most generous gift of the Behrend
-            farm,given to the college as a memorial to her husband,the late <persName
+            of this group,<persName type="attended">Mr. Reed</persName> thanked  <persName type="attended">Mrs. Behrend</persName> for her most generous gift of the <placeName type="farm">Behrend farm</placeName>
+            ,given to the <placeName type="education">college</placeName> as a memorial to her husband,the late <persName
                ref="Behrend_Ernest">Ernest R. Behrend</persName></p>
-         <p>Mr. Reed introduced Mr. J.O. Keller,Assistant to the President in Charge of Extension
-            Mr. Keller's remarks concerning the duties and activities of an advisory group for such
-            an educational facility as the present one.Mr. Keller offered the following list of
-            members and officers of the Advisory Board,as the College's appointment for the initial
+         <p><persName type="attended">Mr. Reed</persName> introduced <persName>Mr. J.O. Keller</persName>,<affiliation type="education">Assistant to the President in Charge of Extension</affiliation>
+            <persName type="attended">Mr. Keller's</persName> remarks concerning the duties and activities of an advisory group for such
+            an educational facility as the present one.<persName type="attended">Mr. Keller</persName> offered the following list of
+            members and officers of the <orgName type="education">Advisory Board</orgName>,as the College's appointment for the initial
             group. </p>
-         <p>ERIE ADVISORY BOARD</p>
+         <p><orgName type="education">ERIE ADVISORY BOARD</orgName></p>
          <p>Officers:</p>
-         <p><persName>Mr.Edwin Nick,</persName>Northern,Equipment Company,President (3 years)</p>
-         <p><persName>Mr. R.C. Reed,</persName>General Electric Company,Vice President,(3 years)</p>
-         <p><persName>Mr. Bertram E. Claridge,</persName>Hammermill Paper Company,(3 years)</p>
-         <p><persName>Mr. R.C. Henzi,</persName>Secretary</p>
-         <p><persName>Mrs.Mary B. Behrend,</persName>Porchuck Road, Greenwich,Conneticut</p>
-         <p><persName>Mr. W. Pitt Gifford,</persName>Attorney,615 Masonic Bldg.(3 years)</p>
-         <p><persName>Mr. N.A. Carlson,</persName>President,Erie Meter Systems (3 years)</p>
-         <p><persName>Mr. H.C. Mitchell,</persName>Retired,917 West 6th St.(2 years)</p>
-         <p><persName>Mr. G.R. Fryling,</persName>President,Erie Resistor Corporation (2 years) </p>
-         <p><persName>Mr. Allyn Wright,</persName>Vice President,Reed Mfg. Company (2years)</p>
-         <p><persName> Mr. J.A. Zurn,</persName>Founder and Chairman,Zurn Mfg. Company (2years)</p>
-         <p><persName>Mr. H.L.R. Emmet, </persName>Works Manager,General Electric Company,(1
+         <p><persName type="attended">Mr.Edwin Nick,</persName><affiliation type="company">Northern,Equipment Company,President (3 years)</affiliation></p>
+         <p><persName type="attended">Mr. R.C. Reed,</persName><affiliation type="company">General Electric Company,Vice President,(3 years)</affiliation></p>
+         <p><persName type="attended">Mr. Bertram E. Claridge,</persName><affiliation type="company">Hammermill Paper Company,(3 years)</affiliation></p>
+         <p><persName type="attended">Mr. R.C. Henzi,</persName><affiliation type="education">Secretary</affiliation></p>
+         <p><persName type="attended">Mrs.Mary B. Behrend,</persName><address><addrLine> Porchuck Road, Greenwich,Conneticut </addrLine></address></p>
+         <p><persName type="attended">Mr. W. Pitt Gifford,</persName>Attorney,<address><addrLine>615 Masonic Bldg.</addrLine></address>(3 years)</p>
+         <p><persName type="attended">Mr. N.A. Carlson,</persName>President,Erie Meter Systems (3 years)</p>
+         <p><persName type="attended">Mr. H.C. Mitchell,</persName>Retired,<address><addrLine>917 West 6th St.(2 years)</addrLine> </address></p>
+         <p><persName type="attended">Mr. G.R. Fryling,</persName>President,<placeName>Erie Resistor Corporation (2 years) </placeName>
+         <persName type="attended">Mr. Allyn Wright,</persName>Vice President,Reed Mfg. Company (2years)</p>
+         <p><persName type="attended"> Mr. J.A. Zurn,</persName>Founder and Chairman,Zurn Mfg. Company (2years)</p>
+         <p><persName type="attended">Mr. H.L.R. Emmet, </persName>Works Manager,General Electric Company,(1
             year)</p>
-         <p><persName>Mr. Ellis T. Knobloch,</persName>President,Union Iron Works,(1 year)</p>
-         <p><persName>Dr. Paul H. Henkel </persName>Vice President,Continental Rubber Works (1
+         <p><persName type="attended">Mr. Ellis T. Knobloch,</persName>President,Union Iron Works,(1 year)</p>
+         <p><persName type="attended">Dr. Paul H. Henkel </persName>Vice President,Continental Rubber Works (1
             year)</p>
-         <p>Ex Officio:<persName>Mr. J.O. Keller</persName>assistant to the president in Charge of
-            Extension, Mr. Ferguson,administrative head</p>
+         <p>Ex Officio:<persName type="attended">Mr. J.O. Keller</persName>assistant to the president in Charge of
+            Extension, <persName type="attended">Mr. Ferguson</persName>,administrative head</p>
          <p>honorary member: Mr. J.E. Reed</p>
+         <milestone unit="page2"/>
          <p>Mr Keller in His official capacity expressed the deep appreciation of the college in
             acceptance of Mrs. Behrend's gift. Mr. Reed tuned the meeting over to Mr Nick, President
             of the Advisory Board. Mr. Nick went on record to the effect that he accepted the
@@ -101,27 +114,28 @@
          <p>2. With the exception of the ex officio members no member can succeed himself for more
             than three consecutive, three-year terms.</p>
          <p>Suggested committee:</p>
-           <p>1. Membership or Nominating committee </p>
-           <p>2. Executive or Steering
-               Committee</p>
-         <p>  3.Information Committee</p>
-         <p>  4. Building Committee</p>
-        <p>   5. Scholarship Committee</p>
-         <p>  6. Local Policy Committee</p>               
-         <p>Mr Nick proposed that Mrs. R.C. Ogden and Mrs. C. Dean Khlar be
-            appointed a special Board members for one year term. Mr. Nick made the suggestion in the
-            form of a motion which was seconded by Mr. J.A. Zurn.The motion was carried.</p>       
+         <p>1. Membership or Nominating committee </p>
+         <p>2. Executive or Steering Committee</p>
+         <p> 3.Information Committee</p>
+         <p> 4. Building Committee</p>
+         <p> 5. Scholarship Committee</p>
+         <p> 6. Local Policy Committee</p>
+         <p>Mr Nick proposed that Mrs. R.C. Ogden and Mrs. C. Dean Khlar be appointed a special
+            Board members for one year term. Mr. Nick made the suggestion in the form of a motion
+            which was seconded by Mr. J.A. Zurn.The motion was carried.</p>
+         <milestone unit="page3"/>
          <p> In a general discussion, Mr. Reed raised the question of enrollment figures. Mr. Keller
             answered the budget figures were arranged on an enrollment of 200 persons. Mr . Hoffman
             the Dean of Admissions said that 75 or 100 could be expected at the Center. Mr. Keller
             also explained that this is in line with college policy as to how many students they
             take in the various centers. The Dean of Admissions, according to Mr. Keller will be
             asked to reconsider this minimum figure for the Behrend Center. </p>
-         <p>Mr. Carlson suggested to the committee that it interest itself and sponsoring more activity in attempting an
-            enrollment of 200 from the community of Erie. He suggested industrial publications be
-            used to publicize this so that the readers of these periodicals might consider the
-            center as the place to send their children. Mr.Reed endorsed this plan with enthusiasm.</p>
-            <p>The meeting adjourned at 5:45 P.M.</p>
+         <p>Mr. Carlson suggested to the committee that it interest itself and sponsoring more
+            activity in attempting an enrollment of 200 from the community of Erie. He suggested
+            industrial publications be used to publicize this so that the readers of these
+            periodicals might consider the center as the place to send their children. Mr.Reed
+            endorsed this plan with enthusiasm.</p>
+         <p>The meeting adjourned at 5:45 P.M.</p>
 
 
       </body>
