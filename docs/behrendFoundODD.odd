@@ -81,6 +81,10 @@
                         <valItem ident="Hamot_Hospital"/>
                         <valItem ident="Norway"/>
                         <valItem ident="Sweden"/>
+                        <valItem ident="PSC"><gloss>Pennslyvania State College</gloss></valItem>
+                        <valItem ident="New_England"/>
+                        <valItem ident="wIndies"><gloss>West Indies</gloss></valItem>
+                        <valItem ident="sAmer"><gloss>South America</gloss></valItem>
                      </valList>
                   </attDef>
                </attList>
@@ -97,7 +101,9 @@
                         <valItem ident="Ham"><gloss>Hammermill Paper Company</gloss></valItem>
                         <valItem ident="PSB"><gloss>Penn State Behrend</gloss></valItem>
                         <valItem ident="RedCross"><gloss>Red Cross</gloss></valItem>
-                     
+                     <valItem ident="Nittinay_Cub"/>
+                        <valItem ident="YMCA"/>
+                        <valItem ident="Grass"><gloss>Grasshopper</gloss></valItem>
                      </valList>
                   </attDef>
                </attList>
