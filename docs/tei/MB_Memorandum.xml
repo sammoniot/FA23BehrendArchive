@@ -36,19 +36,19 @@
    </teiHeader>
    <text>
       <body>
-         <p n="1">Memorandum with respect to the desirability of establishing a Junior College
+         <p>Memorandum with respect to the desirability of establishing a Junior College
             Center of <placeName ref="PSC">Pennsylvania State College</placeName> in <placeName
                ref="Erie">Erie</placeName>.</p>
-         <p n="2">The need for such an institution is shown by a survey rather recently conducted
+         <p>The need for such an institution is shown by a survey rather recently conducted
             under the auspices of Pennsylvania State College among the Seniors and Juniors in our
             Senior High Schools. That survey developed the facts that:</p>
-         <p n="3">(a) 173 students interviewed plan to go to college but were not interested in a
-            Pennslyvania State College Branch in Erie. They had other plans.</p>
-         <p n="4">(b) 245 had not planned to go to college, but would be interested if there were a
-            Pennslyvania State College Branch here.</p>
-         <p n="5">(c) 477 were planning to go to college and wore definintely interested in a
-            Pennsylvania State College Branch in Erie.</p>
-         <p n="6">It should be understood that Pennsylvania State College is not seeking entrance to
+         <list><item n="1">(a) 173 students interviewed plan to go to college but were not interested in a
+            Pennslyvania State College Branch in Erie. They had other plans.</item>
+         <item n="2">(b) 245 had not planned to go to college, but would be interested if there were a
+            Pennslyvania State College Branch here.</item>
+         <item n="3">(c) 477 were planning to go to college and wore definintely interested in a
+            Pennsylvania State College Branch in Erie.</item></list>
+         <p>It should be understood that Pennsylvania State College is not seeking entrance to
             Erie for the purpose of establishing a branch or center here. It has been asked by
             representatives of large and interested groups of Erie people, including the parents of
             hundreds of high school pupils, to bring Erie, as it has brought to four other cities of
@@ -57,11 +57,11 @@
             course near at home, from which they can go on to finish in other institutions, or, if
             they are unable to do that, will have had the benefit of two years of advanced study
             beyond the high school cirriculum.</p>
-         <p n="7">Pennsylvania State College, a State Institution of high rank, supported by tax
+         <p>Pennsylvania State College, a State Institution of high rank, supported by tax
             money, to which all of us contribute, is interested in (1) the need, which appears to be
             demonstrated by the results of the survey above referrod to, and (2) the availability of
             adequate facilities.</p>
-         <p n="8">Pennsylvania State College was chartered many years ago to afford instruction in
+         <p>Pennsylvania State College was chartered many years ago to afford instruction in
             the mechanical and agricultural arts. Erie is a growing and increasingly important
             industrial city, surrounded by a rich and productive agricultural area. In the courses
             to be offered in a branch of State College here, emphasis would be placed upon
@@ -71,15 +71,15 @@
             doubt-less be a limited number of pupils who might be interested only in liberal arts
             courses, who should be taken care of.</p>
          <!-- Was wondering if there was an element that could code the different majors offered-->
-         <p n="9">It is apparent, therefore, that with the emphasis on the kind of instruction
+         <p>It is apparent, therefore, that with the emphasis on the kind of instruction
             indicated, there will be no duplication of existing facilities for higher eductation in
             Erie.</p>
-         <p n="10">Such a branch of Pennsylvania State College would be interested in providing
+         <p>Such a branch of Pennsylvania State College would be interested in providing
             courses also in training for community service, in the terminal types of training, such
             as semi-technical training, in medical secretarial work, in sales program and
             accounting, as well as evening adult programs in music, art writing and speaking
             etc.</p>
-         <p n="11">Such a project as outlined has been successfully undertaken in four other
+         <p>Such a project as outlined has been successfully undertaken in four other
             Pennslyvania cities, <placeName ref="Dubois">DuBois</placeName>, <placeName
                ref="Altoona">Altoona</placeName>, <placeName ref="Hazelton">Hazelton</placeName> and
                <placeName ref="Pottsville">Pottsville</placeName>. In all four cities the college
@@ -88,7 +88,7 @@
             communities for the growing needs of the college. What has been demonstrated to be
             possible and feasible in the cities referred to should be possible of accomplishment in
             Erie.</p>
-         <p n="12">It is suggested that a school bulling not presently needed for classroom work,
+         <p>It is suggested that a school bulling not presently needed for classroom work,
             such as <placeName ref="MarshallSch">Marshall School</placeName> on East 12th Street,
             might be made available, lease to be made directly with State College, at a nominal
             rental, for a limited period, say five years. The funds necessary to provide necessary
@@ -96,16 +96,16 @@
             period, would be provided by interested local groups, and those funds have been assured.
             The <orgName ref="SchDst">School District</orgName> need not be called upon for any
             expenditure of money. </p>
-         <p n="13">State College recommends the use of an unused school bullding for a limited
+         <p>State College recommends the use of an unused school bullding for a limited
             period, (1) to determine how satisfactory the service is, and (2) to find out what
             facilities are going to be needed.</p>
-         <p n="14">If satisfactory arrangements can be made with the cooperation of the School
+         <p>If satisfactory arrangements can be made with the cooperation of the School
             Board, State College would expect to offer freshman courses for about 200 pupils in
                <time when="1948-09">September</time> of this year, and would bring to Erie a faulty
             of twenty full-time instructors, which would, of course, be increased the second year,
             as these students moved on into the second year and a new freshman class was
             registered.</p>
-         <p n="15">Erie needs all the cultural and educational advantages for its young people that
+         <p>Erie needs all the cultural and educational advantages for its young people that
             it is possible to provide. This project presents an opportunity for the expansion of our
             educational facilities which should not be lost, and deserves the most thoughtful and
             careful consideration of our school authorities.</p>
