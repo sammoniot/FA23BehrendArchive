@@ -84,6 +84,10 @@
                         <valItem ident="PSC"><gloss>Pennslyvania State College</gloss></valItem>
                         <valItem ident="New_England"/>
                         <valItem ident="wIndies"><gloss>West Indies</gloss></valItem>
+                        <valItem ident="Dubois"/>
+                        <valItem ident="Altoona"/>
+                        <valItem ident="Hazelton"/>
+                        <valItem ident="Pottsville"/>
                         <valItem ident="sAmer"><gloss>South America</gloss></valItem>
                      </valList>
                   </attDef>
@@ -104,6 +108,7 @@
                      <valItem ident="Nittinay_Cub"/>
                         <valItem ident="YMCA"/>
                         <valItem ident="Grass"><gloss>Grasshopper</gloss></valItem>
+                        <valItem ident="SchDst"><gloss>School District</gloss></valItem>
                      </valList>
                   </attDef>
                </attList>
