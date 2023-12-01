@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../out/behrendFoundODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../out/behrendFoundODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -38,7 +37,8 @@
    <text>
       <body>
          <p n="1">Memorandum with respect to the desirability of establishing a Junior College
-            Center of Pennsylvania State College in Erie.</p>
+            Center of <placeName ref="PSC">Pennsylvania State College</placeName> in <placeName
+               ref="Erie">Erie</placeName>.</p>
          <p n="2">The need for such an institution is shown by a survey rather recently conducted
             under the auspices of Pennsylvania State College among the Seniors and Juniors in our
             Senior High Schools. That survey developed the facts that:</p>
@@ -70,6 +70,7 @@
             liberal arts courses, which are indispensible in a scientific training. There would
             doubt-less be a limited number of pupils who might be interested only in liberal arts
             courses, who should be taken care of.</p>
+         <!-- Was wondering if there was an element that could code the different majors offered-->
          <p n="9">It is apparent, therefore, that with the emphasis on the kind of instruction
             indicated, there will be no duplication of existing facilities for higher eductation in
             Erie.</p>
@@ -79,32 +80,36 @@
             accounting, as well as evening adult programs in music, art writing and speaking
             etc.</p>
          <p n="11">Such a project as outlined has been successfully undertaken in four other
-            Pennslyvania cities, DuBois, Altoona, Hazelton and Pottsville. In all four cities the
-            college was afforded the use of presently unused school buildings. In s ome of the
-            cities named the buildings have been outgrown and further facilities have been provided
-            by the communities for the growing needs of the college. What has been demonstrated to
-            be possible and feasible in the cities referred to should be possible of accomplishment
-            in Erie.</p>
+            Pennslyvania cities, <placeName ref="Dubois">DuBois</placeName>, <placeName
+               ref="Altoona">Altoona</placeName>, <placeName ref="Hazelton">Hazelton</placeName> and
+               <placeName ref="Pottsville">Pottsville</placeName>. In all four cities the college
+            was afforded the use of presently unused school buildings. In s ome of the cities named
+            the buildings have been outgrown and further facilities have been provided by the
+            communities for the growing needs of the college. What has been demonstrated to be
+            possible and feasible in the cities referred to should be possible of accomplishment in
+            Erie.</p>
          <p n="12">It is suggested that a school bulling not presently needed for classroom work,
-            such as Marshall Sxhool on East 12th Street, might be made available, lease to be made
-            directly with State College, at a nominal rental, for a limited period, say five years.
-            The funds necessary to provide necessary laboratory and other facilities and properly
-            maintain the building during the lease period, would be provided by interested local
-            groups, and those funds have been assured. The School District need not be called upon
-            for any expenditure of money </p>
+            such as <placeName ref="MarshallSch">Marshall School</placeName> on East 12th Street,
+            might be made available, lease to be made directly with State College, at a nominal
+            rental, for a limited period, say five years. The funds necessary to provide necessary
+            laboratory and other facilities and properly maintain the building during the lease
+            period, would be provided by interested local groups, and those funds have been assured.
+            The <orgName ref="SchDst">School District</orgName> need not be called upon for any
+            expenditure of money. </p>
          <p n="13">State College recommends the use of an unused school bullding for a limited
             period, (1) to determine how satisfactory the service is, and (2) to find out what
             facilities are going to be needed.</p>
          <p n="14">If satisfactory arrangements can be made with the cooperation of the School
             Board, State College would expect to offer freshman courses for about 200 pupils in
-            September of this year, and would bring to Erie a faulty of twenty full-time
-            instructors, which would, of course, be increased the second year, as these students
-            moved on into the second year and a new freshman class was registered.</p>
+               <time when="1948-09">September</time> of this year, and would bring to Erie a faulty
+            of twenty full-time instructors, which would, of course, be increased the second year,
+            as these students moved on into the second year and a new freshman class was
+            registered.</p>
          <p n="15">Erie needs all the cultural and educational advantages for its young people that
             it is possible to provide. This project presents an opportunity for the expansion of our
             educational facilities which should not be lost, and deserves the most thoughtful and
             careful consideration of our school authorities.</p>
-         
+
       </body>
    </text>
 </TEI>
