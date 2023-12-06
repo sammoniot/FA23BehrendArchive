@@ -57,6 +57,7 @@
                         <valItem ident="Carter_Maud"><gloss>later known as Mrs. Shannon</gloss></valItem>
                         <valItem ident="Milholland"/>
                         <valItem ident="Brust_Mrs_Will"/>
+                        <valItem ident="Reed_RC"></valItem>
                      </valList>
                   </attDef>
                </attList>
@@ -81,6 +82,14 @@
                         <valItem ident="Hamot_Hospital"/>
                         <valItem ident="Norway"/>
                         <valItem ident="Sweden"/>
+                        <valItem ident="PSC"><gloss>Pennslyvania State College</gloss></valItem>
+                        <valItem ident="New_England"/>
+                        <valItem ident="wIndies"><gloss>West Indies</gloss></valItem>
+                        <valItem ident="Dubois"/>
+                        <valItem ident="Altoona"/>
+                        <valItem ident="Hazelton"/>
+                        <valItem ident="Pottsville"/>
+                        <valItem ident="sAmer"><gloss>South America</gloss></valItem>
                      </valList>
                   </attDef>
                </attList>
@@ -97,7 +106,10 @@
                         <valItem ident="Ham"><gloss>Hammermill Paper Company</gloss></valItem>
                         <valItem ident="PSB"><gloss>Penn State Behrend</gloss></valItem>
                         <valItem ident="RedCross"><gloss>Red Cross</gloss></valItem>
-                     
+                     <valItem ident="Nittinay_Cub"/>
+                        <valItem ident="YMCA"/>
+                        <valItem ident="Grass"><gloss>Grasshopper</gloss></valItem>
+                        <valItem ident="SchDst"><gloss>School District</gloss></valItem>
                      </valList>
                   </attDef>
                </attList>

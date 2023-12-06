@@ -6,30 +6,43 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Letter to Mr. Keller from R. C. Reed</title>
+            <author ref="Reed_RC">R.C. Reed</author>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Encoded by Lindsey Wood on <date when="2023-12-06">12-06-2023</date>
+            </p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Penn State Erie, The Behrend College Lilley Library<ptr
+                        target="https://github.com/sammoniot/FA23BehrendArchive"/></repository>
+               </msIdentifier>
+               <physDesc>
+                  <typeDesc>
+                     <typeNote>text from a typewriter in black ink.</typeNote>
+                  </typeDesc>
+               </physDesc>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
          <head>Erie, Pennslyvania <date when="1948-03-16">March 16, 1948</date></head>
-         <p>Mr. J. O. Keller</p>
+         <p><persName ref="Keller_Dr">Mr. J. O. Keller</persName></p>
          <p>Assistant to the President in charge of Extension</p>
-         <p>Pennslyvania State College</p>
+         <p><placeName ref="PSC">Pennslyvania State College</placeName></p>
          <p>State College, Pennslyvania</p>
+         <p>Subject: Request for consideration of an Erie Undergraduate Center</p>
          <p>Dear Mr. Keller</p>
-         <p>Some preliminary consideration has been given, we believe, to the advisa- bility of
+         <p>Some preliminary consideration has been given, we believe, to the advisability of
             establishing an undergraduate center of Pennsylvania State College at Erie,
             Pennsylvania. Since the matter was first discussed, a number of developments have taken
             place which indicate the desirability of concisely restating our reasons for presenting
             our request, and to provide you with a statement of all the facts which will be of value
-            in giving it your earnest corsideration.</p>
+            in giving it your earnest consideration.</p>
          <p>Evidence of Need:</p>
          <p>It is realized that evidence of the need of primary importance. Erie is not only growing
             rapidly in population at present, but it is also expected to continue to grow for
@@ -126,7 +139,7 @@
             complete the project ready for enrollments in September 1948.</p>
          <p>Respectfully, R. C. Reed R. C. Reed, hcting Chairman Supervisor of Personnel, ceneral
             Electric Co.</p>
-            <!--Signatures and text need added from page 4-->
+         <!--Signatures and text need added from page 4-->
       </body>
    </text>
 </TEI>
