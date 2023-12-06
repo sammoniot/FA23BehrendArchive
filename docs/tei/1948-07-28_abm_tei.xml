@@ -25,9 +25,11 @@
                   <p>Advisory Board meeting that was held on <date when="1948-07-28">July
                         28th,1948.</date></p>
                </msContents>
-              <physDesc>
-                 <typeDesc><typeNote>text from a typewriter in black ink. </typeNote></typeDesc>
-              </physDesc>
+               <physDesc>
+                  <typeDesc>
+                     <typeNote>text from a typewriter in black ink. </typeNote>
+                  </typeDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
 
@@ -40,8 +42,10 @@
          <p><title>Minutes of the meeting for the Advisory Board for the Pennsylvania State College
                in Erie.</title></p>
          <p><time>Time: 4:00 P.M.,July 28,1948</time></p>
-         <p>Place: The Behrend Center</p>
-         <p>Those Members Present:Mrs. H.C Ogden Mrs. C.Dean Klahr Mr. Edwin W. Nick Mr. R.C. Reed
+         <p>Place: <placeName type="education">The Behrend Center</placeName></p>
+         <p>Those Members Present:</p>
+         <p><persName type="attended">Mrs. H.C Ogden</persName></p>
+         <p><persName type="attended">Mrs. C.Dean Klahr</persName> <persName type="attended">Mr. Edwin W. Nick</persName> <persName type="attended">Mr. R.C. Reed</persName>
             Mr. Bertram E. Claridge Mr. N.A. Carlson Mr. H.C. Mitchell Mr. G.R. Fryling Mr. Allyn
             Wright Mr. J.A. Zurn Mr. T.Reed Ferguson Mr. R.C. Henzi </p>
          <p>Visitor Present: Mr.E.L. Keller</p>

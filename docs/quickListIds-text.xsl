@@ -40,6 +40,57 @@
         </ul>
         
     </xsl:template>
-    
+    <html>
+    <head>
+        <title>List of People</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <link rel="stylesheet" type="text/css" href="archive.css" />
+    </head>    
+    <body>
+        <h1>Behrend People</h1>
+        <ul>Mary Behrend </ul>
+        <ul>Ernst Behrend</ul>
+        <ul>R.C. Reed</ul>
+        <ul>Mr.Edwin Nick</ul>
+        <ul>Bertram E. Claridge</ul>
+        <ul> W. Pitt Gifford</ul>
+        <ul>N.A. Carlson</ul>
+        <ul>H.C. Mitchell</ul>
+        <ul>G.R. Fryling</ul>
+        <ul>Allyn Wright</ul>
+        <ul>J.A. Zurn</ul>
+        <ul>H.L.R. Emmet</ul>
+        <ul>Ellis T. Knobloch</ul>
+        <ul>Paul H. Henkel</ul>
+        <ul>J.O. Keller</ul>
+        <ul>Mr. Ferguson</ul>
+        <h2>Purdue People</h2>
+        <h3>Hammermill People</h3>
+        <h4>Companies and Organizations</h4>
+        <ul>Pennsylvania State University </ul>
+        <ul>Hammermill Paper Company</ul>
+        <ul>Purdue University</ul>
+        <ul>Erie Advisory Board</ul>
+        <ul>General Electric</ul>
+        <ul>Erie Resistor Corporation</ul>
+        <ul>Northern Equipment Company</ul>
+        <ul>Reed Mfg. Company</ul>
+        <ul>Zurn Mfg. Company </ul>
+        <ul>Continental Rubber Works</ul>
+        <ul>Erie Meter Systems</ul>
+        <h3>Places!</h3>
+        <ul>Erie,Pennsylvania</ul>
+        <ul>Glenhill Farm</ul>
+        <ul>Greenwhich,Conneticut</ul>
+        <ul>Lafayette,Indiana</ul>
+        <xsl:apply-templates select="descendant::body"/>
+    </body>   
+        
+    </html>
+    <xsl:template match="head">
+        <strong>
+            <xsl:apply-templates/>
+        </strong>
+    </xsl:template>
 </xsl:stylesheet>
 

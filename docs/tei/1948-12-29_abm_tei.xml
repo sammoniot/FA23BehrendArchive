@@ -172,14 +172,14 @@
             they are interested in wrestling as a varsity sport once they are admitted to the <placeName type="education">main
                campus.</placeName></p>
          <milestone unit="page3"/>
-         <p>The Center operates a bowling league in which over 60 persons participate one day a
+         <p>The Center operates a bowling league in which over<num>60</num>  persons participate one day a
             week. The comment was made that this is rather exceptional since it represents a little
             better than half of the student body. The participants in this activity are both men and
             women students and also a few of the faculty. It does much towards heightening the
             general morale of the Center and makes for a better relationship between student and
-            faculty. <persName/>Mr. Henzi also gave an outline of the expected winter sports program
-            which includes skiing and ice skating. He told the Board that <persName/>Mr. Lamb of the
-            Erie Dispatch had donated $100.00 to the ski club. This money will be used to buy the
+            faculty. <persName type="attennded">Mr. Henzi</persName> also gave an outline of the expected winter sports program
+            which includes skiing and ice skating. He told the Board that <persName type="attended">Mr. Lamb</persName> of the
+            <orgName type="government">Erie Dispatch</orgName> had donated <num type="dollars">$100.00</num> to the ski club. This money will be used to buy the
             equipment necessary to construct a ski lift. An area has also been prepared for ice
             skating and water will be run into the prepared pond once freezing weather sets in.</p>
          <p>GIRL'S ACTIVITIES: The girls activities are somewhat limited by equipment and numbers.
@@ -187,9 +187,9 @@
             horseback riding. The outdoor pool of course is not available most of the time because
             of the weather. It was used quite extensively doing the short period in which sports
             could be carried on. </p>
-         <p>DISCUSSIONS ON SCHOLARSHIPS:-- <persName/>Mr. Ferguson suggested that more scholarships
-            could be used at the Center. He informed the board that approximately 90% of the
-            dropouts the center has had to date has been because of financial difficulties. He
+         <p>DISCUSSIONS ON SCHOLARSHIPS:-- <persName type="attended">Mr. Ferguson</persName> suggested that more scholarships
+            could be used at the <orgName type="education">Center</orgName>. He informed the board that approximately <num type="percentage">90%</num> of the
+            dropouts the <orgName type="education">center</orgName> has had to date has been because of financial difficulties. He
             further suggested that the industrial work scholarship would be good i.e. where a
             company would guarantee to provide a certain number of work hours in order that a needy
             student might earn money towards his college expenses. <persName/>Mr. Carlson made the
@@ -209,9 +209,9 @@
             <persName/>Mr. Fryling and seconded by Mr. Claridge. Motion was carried. The president
             of the board was directed to name the members to this reorganized committee at an early
             date.</p>
-         <p>PROPOSED FELLOWSHIP-- <persName/>Mr. Nick reported to the board that <persName/>Mr. L.G.
+         <p>PROPOSED FELLOWSHIP-- <persName>Mr. Nick</persName> reported to the board that <persName/>Mr. L.G.
             Meyer of PA Meyer and Sons wants to establish a Chair for Merchandising and Retailing at
-            the Behrend Center. Mr. Nick asked both Mr. Ferguson and Mr. Campbell what information
+            the Behrend Center. <persName>Mr. Nick</persName> asked both Mr. Ferguson and Mr. Campbell what information
             was available to pass on to Mr. Meyer as to such matters as cost acceptance by the
             college and other details concerned in such a move. Mossrs. Ferguson and Campbell both
             agreed that they would have to have more information before being able to give Mr.
