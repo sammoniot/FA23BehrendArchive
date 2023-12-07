@@ -30,10 +30,11 @@
                        
                        <ul>
                            <xsl:for-each select="$teiCollection">
-                               <xsl:sort select=".//msContents//date/@when ! xs:date(.)"/>
+                               <xsl:sort select="base-uri() ! tokenize(., '/')[last()] ! substring-before(., '_')"/>
                                
-                               <li><a href="output/{base-uri() ! tokenize(., '/')[last()] ! substring-before(., '.xml')}.html"><xsl:apply-templates select=".//titleStmt/title"/></a>: 
-                               <xsl:apply-templates select=".//msContents//date"/>
+                               <li><a href="output/{base-uri() ! tokenize(., '/')[last()] ! substring-before(., '.xml')}.html">
+                                   <xsl:apply-templates select=".//titleStmt/title"/></a>: 
+                                   <xsl:apply-templates select="base-uri() ! tokenize(., '/')[last()] ! substring-before(., '_')"/>
                                
                                </li>
                                
