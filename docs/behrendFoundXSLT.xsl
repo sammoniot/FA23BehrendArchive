@@ -27,11 +27,29 @@
                        <link rel="stylesheet" type="text/css" href="../archive.css" />
                    </head>
                    <body>
-                       <h1><xsl:apply-templates select=".//titleStmt/title"/></h1>
-                       <h2><xsl:apply-templates select=".//msContents//date"/></h2>
-                       <p>
+                      <section class="document"> 
+                          <!-- METADATA ON THE OUTSIDE (top or bottom) -->
+                          <h1><xsl:apply-templates select=".//titleStmt/title"/></h1>
+                       <h2><xsl:value-of select="base-uri() ! tokenize(., '/')[last()] ! substring-before(., '_')"/></h2>
+                       
+                     <div class="flex">     
+                      <figure>
+                          <img class="archive" src="../images/MB_BoardMtg_1949-11-07/MB_BoardMtg_1949-11-07_pg1.jpg"/>
+                          
+                          <img class="archive" src="../images/MB_BoardMtg_1949-11-07/MB_BoardMtg_1949-11-07_pg2.jpg"/>
+                          <img class="archive" src="../images/MB_BoardMtg_1949-11-07/MB_BoardMtg_1949-11-07_pg3.jpg"/>
+                          
+                      </figure>
+                         
+                         
+                         <section class="rv">   
+                         
                            <xsl:apply-templates select="descendant::body"/> 
-                       </p>
+                       </section>
+                      </div>
+                      
+                      
+                      </section>
                    </body>
                </html>
                

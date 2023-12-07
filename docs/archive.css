@@ -9,7 +9,7 @@ padding: 5em;
 }
 img{ object-position: right;
 width:300px;
-height:400px
+
 }
 
 nav{
@@ -19,7 +19,12 @@ margin:auto;
 width:50%
 }
 
-a{color:white;}
+div.flex {
+  display:flex;  
+    
+}
+
+a{color:blue;}
 
 h1{
 text-align:center;
@@ -38,4 +43,10 @@ color: white;
 
 p{color: white;
 background: #000080;
+}
+
+img.archive {
+flex:1;
+width:100%;
+max-width:800px;
 }
