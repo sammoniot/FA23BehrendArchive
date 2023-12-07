@@ -1,30 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns="http://www.w3.org/1999/xhtml"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+    xpath-default-namespace="http://www.tei-c.org/ns/1.0"
+    xmlns="http://www.w3.org/1999/xhtml"
     exclude-result-prefixes="xs math xd"
     version="3.0">
     
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes"
         include-content-type="no" indent="yes"/>
     
+    <xsl:variable name="teiCollection" as="document-node()+" select="collection('tei/?select=*.xml')"/>
+    
+    
+    
     <xsl:template match="/">
-        <html>
-            <head>
-                <title>Mary Behrend Dedication Speech</title>
-                <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-                <link rel="stylesheet" type="text/css" href="archive.css" />
-            </head>
-            <body>
-                <h1>Mary Behrend Dedication Speech</h1>
-                <h2>October 30, 1948</h2>
-                <p>
-                <xsl:apply-templates select="descendant::body"/> 
-                </p>
-            </body>
-        </html>
+       <xsl:for-each select="$teiCollection">
+           <xsl:result-document method="xhtml" html-version="5" omit-xml-declaration="yes"
+               include-content-type="no" indent="yes" href="output/{base-uri() ! tokenize(., '/')[last()] ! substring-before(., '.xml')}.html">
+               
+               <html>
+                   <head>
+                       <title><xsl:apply-templates select=".//titleStmt/title"/></title>
+                       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                       <link rel="stylesheet" type="text/css" href="../archive.css" />
+                   </head>
+                   <body>
+                       <h1><xsl:apply-templates select=".//titleStmt/title"/></h1>
+                       <h2><xsl:apply-templates select=".//msContents//date"/></h2>
+                       <p>
+                           <xsl:apply-templates select="descendant::body"/> 
+                       </p>
+                   </body>
+               </html>
+               
+               
+               
+               
+           </xsl:result-document>  
+  
+       </xsl:for-each>
+        
+        
+        
+        
+        
+       
     </xsl:template>
     
     <xsl:template match="head">
