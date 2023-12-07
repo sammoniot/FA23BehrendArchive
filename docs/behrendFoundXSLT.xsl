@@ -87,4 +87,10 @@
     </xsl:for-each>
 </xml:template>
     
+    <xsl:template match="persName | placeName | orgName">
+        
+        <span class="{name()}"><xsl:apply-templates/></span>
+        
+    </xsl:template>
+    
 </xsl:stylesheet>
