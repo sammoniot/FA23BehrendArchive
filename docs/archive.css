@@ -1,24 +1,41 @@
 
 body {
-background-color: #ADD8E6;
-color: black;
-font-family: papayrus, helvetica, sans-serif;
+background-image: url('images/bd-glenhill-winter.jpg');
+
 }
 ol {list-style-type: lower-alpha;
 padding: 5em;
  
 }
-img{
+img{ object-position: right;
 width:300px;
-height:300px
+height:400px
 }
+
 nav{
-background:#89cff0;
-text-align: center;
+background:#000080;
+text-align:center;
 margin:auto;
 width:50%
 }
+
+a{color:white;}
+
 h1{
 text-align:center;
-font-family:papyrus,helvetica,sans-serif
+font-family:papyrus,helvetica,sans-serif;
+color: white;
+background: #000080;
+font-weight: bold;
+margin-left: 500px;
+margin-right: 500px;
+}
+
+h2{font-weight: bold;
+background: #000080;
+color: white;
+}
+
+p{color: white;
+background: #000080;
 }
