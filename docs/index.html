@@ -4,9 +4,39 @@
        
         <title>Digit 110 Behrend Archive</title>
         <meta charset="UTF-8" />
-        <meta name="author" content="My Name" />
+        
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" type="text/css" href="archive.css" />
+
+        <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .content-container {
+            display: flex;
+            justify-content: space-between;
+            max-width: 800px; 
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        .text-section {
+            width: 48%; 
+        }
+
+        .img-section {
+            width: 48%; 
+        }
+
+        .img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+
 
     </head>
     <body>
@@ -18,7 +48,7 @@
         </nav>
         
         <h1 class="h1">Founding of Penn State Behrend</h1>
-       
+       <div class="text-section">
         <h2>Our Project</h2>
         <p>Our mission is to uncover and illuminate the foundation of this esteemed institution by 
             meticulously examining documents dating back to the pivotal years of 1947-1950. In collaboration with 
@@ -33,11 +63,12 @@
             Through our project, we aim to not only preserve the rich history of Penn State Behrend but also to share 
             these discoveries with the broader community. As we navigate the pages of time, we invite you to explore the 
             stories woven into the documents that have played a crucial role in shaping the legacy of our beloved campus.</p>
+       </div>
         <!--ebb: When pointing to images in your own repo, always use *relative* file associations: Here we are pointing to an images directory that's in the same
         folder as this HTML file we're editing. And we're going into the images folder to deliver the newt-mosaic4.png file inside. -->
-        
+        <div class="img-section">
         <img class="img" src="images/2023-08-Mary%20Behrend%20Shrine.jpg" alt="a picture of the Mary Behrend shrine" />
- 
+        </div>
         
         <p>We are at <a href="https://behrend.psu.edu/">Penn State Erie, The Behrend
             College</a>.</p>

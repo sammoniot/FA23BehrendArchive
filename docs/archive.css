@@ -1,7 +1,10 @@
 
 body {
 background-image: url('images/bd-glenhill-winter.jpg');
-
+font-family: 'Arial', sans-serif;
+background-color: #f4f4f4;
+ margin: 0;
+padding: 0;
 }
 ol {list-style-type: lower-alpha;
 padding: 5em;
@@ -12,19 +15,23 @@ width:300px;
 
 }
 
-nav{
-background:#000080;
-text-align:center;
-margin:auto;
-width:50%
+nav {
+background-color: #333;
+color: white;
+padding: 10px;
+text-align: center;
+}
+            
+nav a {
+text-decoration: none;
+color: white;
+margin: 0 10px;
 }
 
 div.flex {
   display:flex;  
     
 }
-
-a{color:blue;}
 
 h1{
 text-align:center;
