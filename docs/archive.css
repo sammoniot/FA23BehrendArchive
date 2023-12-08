@@ -52,9 +52,9 @@ p{color: white;
 background: #000080;
 }
 list{text-align:center;
-font-family:papyrus,helvetica,sans-serif;
+font-weight: bold;
+background: green;
 color: white;
-background: #000080;
 
 margin-left: 500px;
 margin-right: 500px;}
