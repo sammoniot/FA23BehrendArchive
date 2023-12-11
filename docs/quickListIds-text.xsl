@@ -65,7 +65,10 @@
         <ul>J.O. Keller</ul>
         <ul>Mr. Ferguson</ul>
         <h2>Purdue People</h2>
+            Dr.A.A. Potter
         <h3>Hammermill People</h3>
+            Betram E. Claridge
+            Ernst Behrend
         <h4>Companies and Organizations</h4>
         <ul>Pennsylvania State University </ul>
         <ul>Hammermill Paper Company</ul>
