@@ -46,8 +46,24 @@ margin-right: 500px;
 h2{font-weight: bold;
 background: #000080;
 color: white;
+text-align:center
 }
-
+h3{font-weight: bold;
+background: #000080;
+color: white;
+text-align:center}
+h4{font-weight: bold;
+background: #000080;
+color: white;
+text-align:center;}
+h5{font-weight: bold;
+background: #000080;
+color: white;
+text-align:center}
+h6{font-weight: bold;
+background: #000080;
+text-align:center;
+color: white}
 p{color: white;
 background: #000080;
 }
@@ -67,3 +83,12 @@ max-width:800px;
 span.persName {color:pink;}
 span.placeName {color:purple;}
 span.orgName {color:green;}
+ul{
+ text-align:center;
+font-family:papyrus,helvetica,sans-serif;
+color: white;
+background: #000080;
+font-weight: bold;
+margin-left: 500px;
+margin-right: 500px;   
+}
