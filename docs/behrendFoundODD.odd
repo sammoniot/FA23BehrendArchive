@@ -58,6 +58,10 @@
                         <valItem ident="Milholland"/>
                         <valItem ident="Brust_Mrs_Will"/>
                         <valItem ident="Reed_RC"></valItem>
+                        <valItem ident="Pugh_Mr"></valItem>
+                        <valItem ident="Nick_EW"></valItem>
+                        <valItem ident="Wright_RP"></valItem>
+                        <valItem ident="Sturgis_GH"></valItem>                        <valItem ident=""></valItem>
                      </valList>
                   </attDef>
                </attList>
@@ -110,6 +114,18 @@
                         <valItem ident="YMCA"/>
                         <valItem ident="Grass"><gloss>Grasshopper</gloss></valItem>
                         <valItem ident="SchDst"><gloss>School District</gloss></valItem>
+                        <valItem ident="GE"><gloss>General Electric Company</gloss></valItem>
+                        <valItem ident="GC"><gloss>Gannon College</gloss></valItem>
+                        <valItem ident="MC"><gloss>Mercyhurst College</gloss></valItem>
+                        <valItem ident="VMC"><gloss>Villa Maria College</gloss></valItem>
+                        <valItem ident="PAC"><gloss>Polish Alliance College</gloss></valItem>
+                        <valItem ident="ESTC"><gloss>Edinboro State Teachers College</gloss></valItem>
+                        <valItem ident="AC"><gloss>Allegheny College</gloss></valItem>
+                        <valItem ident="LWV"><gloss>League of Women Voters</gloss></valItem>
+                        <valItem ident="ECCPTA"><gloss>Erie City Council of P.T.A.</gloss></valItem>
+                        <valItem ident="NEC"><gloss>Northern Equipment Company</gloss></valItem>
+                        <valItem ident="RMC"><gloss>Reed Manufacturing Company</gloss></valItem>
+                        <valItem ident="BPWC"><gloss>Business and Professional Women's Club</gloss></valItem>
                      </valList>
                   </attDef>
                </attList>

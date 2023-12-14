@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../out/behrendFoundODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../out/behrendFoundODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -35,7 +34,8 @@
          <p>Assistant to the President in charge of Extension</p>
          <p><placeName ref="PSC">Pennslyvania State College</placeName></p>
          <p>State College, Pennslyvania</p>
-         <p>Subject: Request for consideration of an Erie Undergraduate Center</p>
+         <p>Subject: Request for consideration of an <placeName ref="Erie">Erie</placeName>
+            Undergraduate Center</p>
          <p>Dear Mr. Keller</p>
          <p>Some preliminary consideration has been given, we believe, to the advisability of
             establishing an undergraduate center of Pennsylvania State College at Erie,
@@ -47,99 +47,118 @@
          <p>It is realized that evidence of the need of primary importance. Erie is not only growing
             rapidly in population at present, but it is also expected to continue to grow for
             several years.</p>
-         <p>One principle reason for this conviction is due to the fact that the Goneral Electric
-            Company, which is the largest local employer, has greatly expanded its facilities to
-            employ many more people on a regular basis. Before World War II, it noramlly employed
-            about 6000. This employment increased to a peak of 11,000 during the war. It numbers
-            about 18,000 at present, which is three times as large as before the war, and this
-            employment is expected to settle dowm to a figure of around 16,000. Conserva- tive
-            estimates indicate that this increase will bring about a growth of around 50,000 in
-            population in the next few years, over and above the presently esti- mated mumber of
-            125,000. This will include the families of these employees, the butchers, bakers, store
-            clerks, professional people and others which go to comprise all community services.</p>
-         <!-- Stopped editting here; needs TEI and spell/word checked with the original document-->
-         <p>Being very largely an industrial commanity, with over 100 diversified in- dustries,
-            aurrounded by rich farm lands, it Is self-evident that educational facilities leading to
+         <p>One principle reason for this conviction is due to the fact that the <orgName ref="GE"
+               >General Electric Company</orgName>, which is the largest local employer, has greatly
+            expanded its facilities to employ many more people on a regular basis. Before World War
+            II, it noramlly employed about 6000. This employment increased to a peak of 11,000
+            during the war. It numbers about 18,000 at present, which is three times as large as
+            before the war, and this employment is expected to settle dowm to a figure of around
+            16,000. Conservative estimates indicate that this increase will bring about a growth of
+            around 50,000 in population in the next few years, over and above the presently esti-
+            mated mumber of 125,000. This will include the families of these employees, the
+            butchers, bakers, store clerks, professional people and others which go to comprise all
+            community services.</p>
+
+         <p>Being very largely an industrial community, with over 100 diversified industries,
+            surrounded by rich farm lands, it is self-evident that educational facilities leading to
             degrees in sciences, engineering and agriculture are of considerable importance.</p>
-         <p>To further check the ovidance of definite need, a quostionnaire ma pro- pared a yoar
-            ago, with the counsel and assisteace of dr. David Be Pugh, of Pennsylvanta State
-            Collogo, to determine, the number of high school undergraduates who would be interested
-            in availing themselves of the first two years of college courses if an Undergraduate
-            Centor of Pennsylvania State College were to be establiched here. All were requested to
-            diseven the questions asked with their parents, and turn in their replies.</p>
-         <p> These were the questions: 1.) Do you plan to go to college! (res or no): 8.) have you
-            applied for enrollment in any collage? (Yes or no): S.) lave you.been accepted? (Yes or
-            no); 4.) Nould you oomeider entering a college to be established in Brio and operated by
-            the Pennsylvania State College? (res 20). Hame and address were optional,</p>
-         <p>their report of the results indicated- 1. 173 atudents plan to go to college but were
-            not interested in a Pennsylvania State college branch in Erte. 2. 245 do not plan to go
-            to college but would be interested if there were a Pennsylvania State College branch in
-            Brie. 3. 477 are going to oollege and are interestod in a Penneylvanie State College
-            branch in Erie.</p>
-         <p>The above would indicate that thero are a very substantial number of poten- tial
+         <p>To further check the evidance of definite need, a questionnaire was prepared a year ago,
+            with the counsel and assistance of <persName ref="Pugh_Mr">Mr. David B. Pugh</persName>,
+            of Pennsylvanta State College, to determine the number of high school undergraduates who
+            would be interested in availing themselves of the first two years of college courses if
+            an Undergraduate Center of Pennsylvania State College were to be established here. All
+            were requested to discuss the questions asked with their parents, and turn in their
+            replies.</p>
+         <p>These were the questions: 1.) Do you plan to go to college? (Yes or no); 2.) Have you
+            applied for enrollment in any college? (Yes or no); 3.) Have you been accepted? (Yes or
+            no); 4.) Would you consider entering a college to be established in Erie and operated by
+            the Pennsylvania State College? (Yes or no). Name and address were optional.</p>
+         <p>A total of 2800 such questionnaires were distributed to potential enrollees in Erie High
+            Schools through the cooperation of the School Administrative Office, their report of the
+            results indicated:-</p>
+         <p>1. 173 students plan to go to college but were not interested in a Pennsylvania State
+            College branch in Erie.</p>
+         <p>2. 245 do not plan to go to college but would be interested if there were a Pennsylvania
+            State College branch in Erie.</p>
+         <p>3. 477 are going to college and are interestod in a Pennsylvania State College branch in
+            Erie.</p>
+         <p>The above would indicate that there are a very substantial number of potential
             enrollees who would be directly benefitted through the establishment of an Undergraduate
             Center here. In addition, many employees of local industries will definitely be
-            intereated in accredited courses offered. Here these figures to be discounted 50% at the
-            present time, it would still be conolusive aridence of definite interest and support of
-            such a projeot. Since school enrollmente are increasing, it can be safely assumed that
-            future interest will be even greater than indicated at present</p>
-         <p>While discussing nod in Brie, it should also be pointed out that there is definite nood
-            for ooedueational facilities which would permit women to enroll in preparation for the
-            steadily inorensing number of technical fields nor open to</p>
+            interested in accredited courses offered. Were these figures to be discounted 50% at the
+            present time, it would still be conclusive evidence of definite interest and support of
+            such a project. Since school enrollments are increasing, it can be safely assumed that
+            future interest will be even greater than indicated at present.</p>
+         <p>While discussing need in Erie, it should also be pointed out that there is definite need
+            for coeducational facilities which would permit women to enroll in preparation for the
+            steadily increasing number of technical fields now open to women.</p>
          <p>Facilities to house an Undergraduate Center:</p>
          <p>Since from a practical standpoint, it would seem wiser to locate and rent existing
-            Pacilities until the success of the center ere assured, the desirabili- ty of
-            eatablishing such a Center in Brie was presented to the rombers of the Spie Sohool Board
-            at their noting held January 15, 1940, and suggesting that school building not presently
-            needed for clessroom work be made avallable, on a tomporary basis. Funds for necessary
-            rearrangerent of, and imgrovenent in, the building were assured, so as to cause the
-            Board no expence. At their rest regular monthly meeting, the proposal was violently
-            opposed by representatives of Gannon College of Erie, who incorrently stated that atx
-            ares colleges objected. These were listed ast- Cannon College, Wereyhorst Colloge, Villa
-            lacie Colloge, Pollen Alliance College, Bainboro State Teacher College, and Allegheny
-            College.</p>
-         <p> Loither Edinboro nor Allegheny were authorized to comment officially, and have since
+            facilities until the success of the center were assured, the desirability of
+            establishing such a Center in Erie was presented to the members of the <orgName ref="SchDst">Erie School Board</orgName>
+            at their meeting held <date when="1940-01-15">January 15, 1940</date>, and suggesting that a school building not presently
+            needed for classroom work be made available, on a temporary basis. Funds for necessary
+            rearrangement of, and improvenent in, the building were assured, so as to cause the
+            Board no expense. At their next regular monthly meeting, the proposal was violently
+            opposed by representatives of Gannon College of Erie, who incorrectly stated that six
+            area colleges objected. These were listed as:- <orgName ref="GC">Gannon College</orgName>, <orgName ref="MC">Mercyhurst College</orgName>, <orgName ref="VMC">Villa
+            Maria College</orgName>, <orgName ref="PAC">Polish Alliance College</orgName>, <orgName ref="ESTC">Edinboro State Teachers College</orgName>, and <orgName ref="AC">Allegheny
+            College</orgName>.</p>
+         <p>Neither Edinboro nor Allegheny were authorized to comment officially, and have since
             repudiated the misleading statements made concerning their attitude towards the
-            proposal. It is indeed unfortunate that data secured sone tine ago for an entirely
-            difforent purpose was used to give the impression that there is no present need for high
-            caliber instruction faoilities in the frie Community, in addition to the already
-            excellent Ilberal arts courses botug offored.</p>
-         <p>The request for a school butlding was donied, on the basis that the School Board
-            required the use of the building for storage purposes; it would entell great exponse to
-            move the furniture; and that the Board 1s only interested in aduoational matters
-            affecting grade school and high school pupile. This posai- bility is thorofore
-            definitely ruled out in the city of Erie for the present.</p>
-         <p>however, mny, civic groups, such as the Business and Professional Monon' Club, the
-            League of Women Voterd, the Brie City Counoil of P.T-A., as well as many groups of
-            interested citizens have evidenced a growing conviotion of the need, in writing, and
-            have insisted that the projeet be actively purgued in spite of the objections raised by
-            those interosted in preserving a monopoly of existing facilities.</p>
+            proposal. It is indeed unfortunate that data secured some time ago for an entirely
+            different purpose was used to give the impression that there is no present need for high
+            caliber instruction facilities in the Erie Community, in addition to the already
+            excellent liberal arts courses being offered.</p>
+         <p>The request for a school butlding was denied, on the basis that the School Board
+            required the use of the building for storage purposes; it would entail great expense to
+            move the furniture; and that the Board is only interested in educational matters
+            affecting grade school and high school pupils. This possibility is therefore
+            definitely ruled out in the City of Erie for the present.</p>
+         <p>However, many civic groups, such as the <orgName ref="BPWC">Business and Professional Women's Club</orgName>, the
+            League of Women Voters, the <orgName ref="ECCPTA">Erie City Council of P.T.A.</orgName>, as well as many groups of
+            interested citizens have evidenced a growing conviction of the need, in writing, and
+            have insisted that the project be actively pursued in spite of the objections raised by
+            those interested in preserving a monopoly of existing facilities.</p>
          <p>Therefore, as the result of further investigation, we now have the assurance of
-            unanimous cooperation from the School Board of a tounship adjacent to Erie, who have
-            offered the free use of an area of several acres alongside a large High School the use
-            of their auditorium, gymmusium, and procurement facilities; and in case of tenporary
-            need while construetion is being completed, the use of classroom facilities after 3:30
-            P.l.</p>
-         <p> It is confidently known that the Brie Community will be able to raise the funds
-            necessary to construet a modest building to accommodate approximately 400 students,
-            laboratory failities, library, and offices. This building would be crected on the site
-            offered, and would be considered a decided ascet to the community.</p>
+            unanimous cooperation from the School Board of a township adjacent to Erie, who have
+            offered the free use of an area of several acres alongside a large High School; the use
+            of their auditorium, gymnasium, and procurement facilities; and in case of temporary
+            need while construction is being completed, the use of classroom facilities after 3:30
+            P.M.</p>
+         <p>It is confidently known that the Erie Community will be able to raise the funds
+            necessary to construct a modest building to accommodate approximately 400 students,
+            laboratory facilities, library, and offices. This building would be erected on the site
+            offered, and would be considered a decided asset to the community.</p>
          <p>Summary:</p>
-         <p>1. The need for the facilities offered by a coeducational indergraduate Center such as
-            now provided in other communities of the Stato by the Pennsylvania State College, has
+         <p>1. The need for the facilities offered by a coeducational Undergraduate Center such as
+            now provided in other communities of the State by the Pennsylvania State College, has
             definitely been established in the Erie Community.</p>
-         <p>2. 'Adequate fallitien will be provided in a receptive community adjacent to Erie, and
+         <p>2. Adequate facilities will be provided in a receptive community adjacent to Erie, and
             reached by City bus service.</p>
-         <p>3. Barly consideration on the part of those in charge of Extonaion-- Ponnsylvanie State
-            College--la mort earnestly requested towards the establishment of an Undergraduate
-            Center in the Brie Community,</p>
-         <p>Active work ia desiguing the failities, or raising nocessary funde is held In abeyance
-            pending word from Pennsylvania State college. It is our sincore hope that favorable
-            consideration will be given and that advice to proceed may be recoived in time to
+         <p>3. Early consideration on the part of those in charge of Extension--Pennsylvania State
+            College--is most earnestly requested towards the establishment of an Undergraduate
+            Center in the Erie Community,</p>
+         <p>Active work in designing the facilities, or raising necessary funds is held in abeyance
+            pending word from Pennsylvania State College. It is our sincere hope that favorable
+            consideration will be given and that advice to proceed may be received in time to
             complete the project ready for enrollments in September 1948.</p>
-         <p>Respectfully, R. C. Reed R. C. Reed, hcting Chairman Supervisor of Personnel, ceneral
+         <p>Respectfully,</p>
+         <p>R. C. Reed</p>
+         <p><persName ref="Reed_RC">R. C. Reed</persName>, Acting Chairman</p>
+         <p>Supervisor of Personnel, General
             Electric Co.</p>
-         <!--Signatures and text need added from page 4-->
+         <p>E.W. Nick</p>
+         <p><persName ref="Nick_EW">E.W. Nick</persName>, President</p>
+         <p><orgName ref="NEC">Northern Equipment Company</orgName></p>
+         <p>R.P. Wright</p>
+         <p><persName ref="Wright_RP">R.P. Wright</persName>, Secretary</p>
+         <p><orgName ref="RMC">Reed Manufacturing Company</orgName></p>
+         <p>G. H. Sturgis</p>
+         <p><persName ref="Sturgis_GH">G. H. Sturgis</persName>, Superintendent (retired)</p>
+         <p>General Electric Company</p>
+        <p><persName ref="Gifford_Mr">W. P. Gifford</persName></p>
+         <p>Attorney at Law</p>
       </body>
    </text>
 </TEI>
